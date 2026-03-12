@@ -1,0 +1,18 @@
+# Virtual environment
+ukagb_env/
+
+# Django
+*.sqlite3
+/staticfiles/
+/media/
+
+# Ignore settings
+uk_alevel_grade_boundaries/uk_alevel_grade_boundaries/settings.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
