@@ -1,72 +1,93 @@
 from django.test import TestCase
-from .models import ExamBoard, Subject, OverallGradeBoundary, GradeStatistic, ComponentGradeBoundary, DocumentURL
+from exam_data.models import ExamBoard,Subject,OverallGradeBoundary, GradeStatistic, ComponentGradeBoundary
+from django.core.exceptions import ValidationError
+from django.db import IntegrityError
 from django.utils.timezone import now
 
-class ExamBoardTestCase(TestCase):
+class OverallGradeBoundaryTestCase(TestCase):
     def setUp(self):
-        ExamBoard.objects.create(name="AQA")
-        ExamBoard.objects.create(name="Edexcel")
-        ExamBoard.objects.create(name="OCR")
+        self.exam_board = ExamBoard.objects.create(name = "AQA")
+        self.subject = Subject.objects.create(exam_board = self.exam_board, name = "Physics")
+
+    def test_year_too_low(self):
+        boundary = OverallGradeBoundary(subject = self.subject, year = 2007, grade = "A", grade_threshold = 50 )
+        with self.assertRaises(ValidationError):
+            boundary.full_clean()
+
+    def test_year_too_high(self):
+        boundary = OverallGradeBoundary(subject = self.subject, year = now().year + 1, grade ="A", grade_threshold = 50 )
+        with self.assertRaises(ValidationError):
+            boundary.full_clean()
     
-    def test_exam_board_names(self):
-        boards = ExamBoard.objects.all()
-        names = [b.name for b in boards]
-        expected_names = ["AQA", "Edexcel", "OCR"]
-        self.assertCountEqual(names, expected_names)  
+    def test_duplicate_boundaries(self):
+        OverallGradeBoundary.objects.create(subject = self.subject, year = 2020, grade = "A", grade_threshold = 50)
+
+        with self.assertRaises(IntegrityError):
+            OverallGradeBoundary.objects.create(subject = self.subject, year = 2020, grade = "A", grade_threshold = 90 )
     
-class SimpleModelTests(TestCase):
+    def test_grade_threshold_positive(self):
+        boundary = OverallGradeBoundary(subject = self.subject, year = 2020, grade = "A", grade_threshold = -50 )
+        with self.assertRaises(ValidationError):
+            boundary.full_clean()
+
+class GradeStatisticsTestCase(TestCase):
     def setUp(self):
-        # Create an ExamBoard
-        self.aqa = ExamBoard.objects.create(name="AQA")
-        
-        # Create a Subject
-        self.maths = Subject.objects.create(exam_board=self.aqa, name="Mathematics")
-        
-        # OverallGradeBoundary
-        self.overall = OverallGradeBoundary.objects.create(
-            subject=self.maths,
-            exam_board=self.aqa,
-            year=2025,
-            grade="A",
-            grade_threshold=85
-        )
-        
-        # GradeStatistic
-        self.stat = GradeStatistic.objects.create(
-            year=2025,
-            grade="A",
-            percentage=23.5,
-            num_students=120
-        )
-        
-        # ComponentGradeBoundary
-        self.component = ComponentGradeBoundary.objects.create(
-            paper_number="1",
-            overall_grade_boundary=self.overall,
-            grade="A",
-            grade_threshold=43
-        )
-        
-        # DocumentURL
-        self.doc = DocumentURL.objects.create(
-            paper=self.component,
-            document_type="past_paper",
-            url="https://example.com/paper.pdf"
-        )
+        self.exam_board = ExamBoard.objects.create(name = "AQA")
+        self.subject = Subject.objects.create(exam_board = self.exam_board, name = "Physics")
     
-    def test_models_created(self):
-        # Check objects exist
-        self.assertEqual(ExamBoard.objects.count(), 1)
-        self.assertEqual(Subject.objects.count(), 1)
-        self.assertEqual(OverallGradeBoundary.objects.count(), 1)
-        self.assertEqual(GradeStatistic.objects.count(), 1)
-        self.assertEqual(ComponentGradeBoundary.objects.count(), 1)
-        self.assertEqual(DocumentURL.objects.count(), 1)
+    def test_year_too_high(self):
+        statistic = GradeStatistic(subject = self.subject, year = now().year+1, grade = "A", percentage = 0.25, num_students = 100)
+        with self.assertRaises(ValidationError):
+            statistic.full_clean()
+
+    def test_year_too_low(self):
+        statistic = GradeStatistic(subject = self.subject, year = 2000, grade = "A", percentage = 0.25, num_students = 100)
+        with self.assertRaises(ValidationError):
+            statistic.full_clean()
+    
+    def test_percentage_too_low(self):
+        statistic = GradeStatistic(subject = self.subject, year = 2018, grade = "A", percentage = -0.25, num_students = 100)
+        with self.assertRaises(ValidationError):
+            statistic.full_clean()
+
+    def test_percentage_too_high(self):
+        statistic = GradeStatistic(subject = self.subject, year = 2020, grade = "A", percentage =101.25, num_students = 100)
+        with self.assertRaises(ValidationError):
+            statistic.full_clean()
         
-        # Optional: check some field values
-        self.assertEqual(self.aqa.name, "AQA")
-        self.assertEqual(self.maths.name, "Mathematics")
-        self.assertEqual(self.overall.grade_threshold, 85)
-        self.assertEqual(self.stat.percentage, 23.5)
-        self.assertEqual(self.component.paper_number, "1")
-        self.assertEqual(self.doc.document_type, "past_paper")
+    def test_negative_number_of_students(self):
+        statistic = GradeStatistic(subject = self.subject, year = 2020, grade = "A", percentage = 0.25, num_students = -100)
+        with self.assertRaises(ValidationError):
+            statistic.full_clean()
+    
+    def test_unique_statistic(self):
+        GradeStatistic.objects.create(subject = self.subject, year = 2020, grade = "A", percentage = 0.25, num_students = 100)
+        with self.assertRaises(IntegrityError):
+            GradeStatistic.objects.create(subject = self.subject, year = 2020, grade = "A", percentage = 0.85, num_students = 100)
+
+class ComponentGradeBoundaryTestCase(TestCase):
+    def setUp(self):
+        self.exam_board = ExamBoard.objects.create(name = "AQA")
+        self.subject = Subject.objects.create(exam_board = self.exam_board, name = "Physics")
+        self.boundary = OverallGradeBoundary.objects.create(subject = self.subject, year = 2020, grade = "A", grade_threshold = 50)
+    
+    def test_grade_threshold(self):
+        component = ComponentGradeBoundary(paper_number = "1", overall_grade_boundary = self.boundary, grade="A", grade_threshold = -30)
+        with self.assertRaises(ValidationError):
+            component.full_clean()
+    
+    def test_unique_component(self):
+        ComponentGradeBoundary.objects.create(paper_number = "1", overall_grade_boundary = self.boundary, grade="A", grade_threshold = 30)
+        with self.assertRaises(IntegrityError):
+            ComponentGradeBoundary.objects.create(paper_number = "1", overall_grade_boundary = self.boundary, grade="A", grade_threshold = 70)
+
+
+
+
+
+
+        
+            
+            
+
+
