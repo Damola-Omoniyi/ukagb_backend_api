@@ -53,6 +53,8 @@ class GradeStatistic(models.Model):
 
     class Meta:
         indexes =  [models.Index(fields=['subject', 'year'])]
+        constraints = [models.UniqueConstraint(fields=['subject', 'year', 'grade'], name='unique_statistic')]
+
 
     def __str__(self):
         return f"{self.subject}  {self.year} {self.grade} : {self.percentage}"
