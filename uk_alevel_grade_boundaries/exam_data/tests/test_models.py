@@ -14,6 +14,7 @@ class ModelTestCase(TestCase):
         self.boundary = OverallGradeBoundary.objects.create(exam_session=self.exam_session, grade='A', grade_threshold=100)
         self.statistic = GradeStatistic.objects.create(exam_session=self.exam_session, grade="A", percentage=12.5, num_students = 40)
         self.exam_paper = ExamPaper.objects.create(exam_session = self.exam_session, paper_number="1")
+        self.exam_paper2 = ExamPaper.objects.create(exam_session = self.exam_session, paper_number="2")
         self.component_boundary = ComponentGradeBoundary.objects.create(exam_paper=self.exam_paper, grade="A", grade_threshold=60)
         self.url = 'https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2022.june.AQA-71921-QP-JUN22_PDF/5ada22f946e7ffd420d45c1cef788840c42f261c.pdf'
         self.document = DocumentURL.objects.create(paper=self.exam_paper, document_type="past_paper", url=self.url)
@@ -88,7 +89,10 @@ class ModelTestCase(TestCase):
         with self.assertRaises(IntegrityError):
             DocumentURL.objects.create(paper=self.exam_paper, document_type="past_paper", url="https://chatgpt.com/?temporary-chat=true")
 
-            
+    def test_duplicate_urls(self):
+        with self.assertRaises(IntegrityError):
+            DocumentURL.objects.create(paper=self.exam_paper2, document_type="mark_scheme",  url=self.url)
+
 
         
         

@@ -1,7 +1,10 @@
-from exam_data.models import ExamBoard, Subject, OverallGradeBoundary, GradeStatistic, ComponentGradeBoundary, DocumentURL
+from django.shortcuts import get_object_or_404
+from rest_framework import generics
+from exam_data.models import (ExamBoard, Subject, ExamSession, OverallGradeBoundary, GradeStatistic, ExamPaper, 
+                              ComponentGradeBoundary, DocumentURL)
+
 from exam_data.serializers import (ExamBoardSerializer, SubjectSerializer, OverallGradeSerializer, 
                                    GradeStatisticSerializer, ComponentGradeSerializer, URLSerializer)
-from rest_framework import generics
 
 class ExamBoardList(generics.ListAPIView):
     queryset = ExamBoard.objects.all()
@@ -12,52 +15,43 @@ class SubjectList(generics.ListAPIView):
     serializer_class = SubjectSerializer
 
     def get_queryset(self):
-        exam_board_name = self.kwargs.get("exam_board_name")
-        return Subject.objects.filter(exam_board__name=exam_board_name)
+        exam_board = get_object_or_404(ExamBoard, name=self.kwargs["exam_board_name"])
+        return Subject.objects.filter(exam_board=exam_board)
 
 class GradeBoundaryList(generics.ListAPIView):
     serializer_class = OverallGradeSerializer
-    def get_queryset(self):
-        exam_board_name = self.kwargs.get("exam_board_name")
-        subject_name = self.kwargs.get("subject_name")
-        
-        return OverallGradeBoundary.objects.filter(subject__name = subject_name,
-                                                   subject__exam_board__name = exam_board_name)
 
+    def get_queryset(self):
+        exam_board = get_object_or_404(ExamBoard, name=self.kwargs["exam_board_name"])
+        subject = get_object_or_404(Subject, exam_board=exam_board, name=self.kwargs["subject_name"])
+        return OverallGradeBoundary.objects.filter(exam_session__subject = subject)
 
 class GradeStatisticList(generics.ListAPIView):
     serializer_class = GradeStatisticSerializer
 
     def get_queryset(self):
-        exam_board_name = self.kwargs.get("exam_board_name")
-        subject_name = self.kwargs.get("subject_name")
+        exam_board = get_object_or_404(ExamBoard, name=self.kwargs["exam_board_name"])
+        subject = get_object_or_404(Subject, exam_board=exam_board, name=self.kwargs["subject_name"])
+        exam_session = get_object_or_404(ExamSession, subject=subject, year=self.kwargs["year"])
         
-        return GradeStatistic.objects.filter(subject__name = subject_name,
-                                             subject__exam_board__name = exam_board_name)
+        return GradeStatistic.objects.filter(exam_session = exam_session)
 
 
 class ComponentGradeList(generics.ListAPIView):
     serializer_class = ComponentGradeSerializer
 
     def get_queryset(self):
-        year = self.kwargs.get("year")
-        exam_board_name = self.kwargs.get("exam_board_name")
-        subject_name = self.kwargs.get("subject_name")
-        return ComponentGradeBoundary.objects.filter(overall_grade_boundary__subject__name = subject_name,
-                                                     overall_grade_boundary__subject__exam_board__name = exam_board_name,
-                                                     overall_grade_boundary__year = year
-                                                     )
+        exam_board = get_object_or_404(ExamBoard, name=self.kwargs["exam_board_name"])
+        subject = get_object_or_404(Subject, exam_board=exam_board, name=self.kwargs["subject_name"])
+        exam_session = get_object_or_404(ExamSession, subject=subject, year=self.kwargs["year"])
+        return ComponentGradeBoundary.objects.filter(exam_paper__exam_session = exam_session)
 
 class DocumentURLList(generics.ListAPIView):
     serializer_class = URLSerializer
 
     def get_queryset(self):
-        year = self.kwargs.get("year")
-        exam_board_name = self.kwargs.get("exam_board_name")
-        subject_name = self.kwargs.get("subject_name")
-        paper_number = self.kwargs.get("paper_number")
-
-        return DocumentURL.objects.filter(paper__overall_grade_boundary__subject__name = subject_name,
-                                                     paper__overall_grade_boundary__subject__exam_board__name = exam_board_name,
-                                                     paper__overall_grade_boundary__year = year,
-                                                     paper__paper_number = paper_number)
+        exam_board = get_object_or_404(ExamBoard, name=self.kwargs["exam_board_name"])
+        subject = get_object_or_404(Subject, exam_board=exam_board, name=self.kwargs["subject_name"])
+        exam_session = get_object_or_404(ExamSession, subject=subject, year=self.kwargs["year"])
+        exam_paper = get_object_or_404(ExamPaper,exam_session=exam_session, paper_number=self.kwargs["paper_number"])
+        return DocumentURL.objects.filter(paper=exam_paper)
