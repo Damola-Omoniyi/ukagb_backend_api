@@ -90,9 +90,8 @@ class ModelTestCase(TestCase):
             DocumentURL.objects.create(paper=self.exam_paper, document_type="past_paper", url="https://chatgpt.com/?temporary-chat=true")
 
     def test_duplicate_urls(self):
-        url1 = DocumentURL.objects.create(paper=self.exam_paper, document_type="past_paper",  url="https://www.aqa.org.uk/past-paper.pdf")
         with self.assertRaises(IntegrityError):
-            DocumentURL.objects.create(paper=self.exam_paper2, document_type="mark_scheme",  url="https://www.aqa.org.uk/past-paper.pdf")
+            DocumentURL.objects.create(paper=self.exam_paper2, document_type="mark_scheme",  url=self.url)
 
 
         

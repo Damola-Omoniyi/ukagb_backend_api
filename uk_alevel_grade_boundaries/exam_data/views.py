@@ -54,4 +54,4 @@ class DocumentURLList(generics.ListAPIView):
         subject = get_object_or_404(Subject, exam_board=exam_board, name=self.kwargs["subject_name"])
         exam_session = get_object_or_404(ExamSession, subject=subject, year=self.kwargs["year"])
         exam_paper = get_object_or_404(ExamPaper,exam_session=exam_session, paper_number=self.kwargs["paper_number"])
-        return DocumentURL.objects.filter(exam_paper=exam_paper)
+        return DocumentURL.objects.filter(paper=exam_paper)
