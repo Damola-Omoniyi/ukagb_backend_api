@@ -1,0 +1,1293 @@
+2017,9AD0,"Art, Craft And Design Paper 01",90,70,63,51,39,27,15
+2017,9AD0,"Art, Craft And Design Paper 02",72,54,49,39,30,21,12
+2017,9BI0,"Biology Paper 01",90,53,44,37,30,23,17
+2017,9BI0,"Biology Paper 02",90,63,52,44,36,28,21
+2017,9BI0,"Biology Paper 03",120,73,61,51,42,33,24
+2017,9BN0,"Biology Salters Nuffield Paper 01",100,70,61,53,45,37,29
+2017,9BN0,"Biology Salters Nuffield Paper 02",100,66,57,48,40,32,24
+2017,9BN0,"Biology Salters Nuffield Paper 03",100,64,56,48,40,33,26
+2017,9BS0,"Business",100,73,67,58,50,42,34
+2017,9BS0,"Business Paper 02",100,75,68,59,50,42,34
+2017,9BS0,"Business Paper 03",100,69,63,54,45,37,29
+2017,9CH0,"Chemistry Paper 01",90,74,62,51,40,30,20
+2017,9CH0,"Chemistry Paper 02",90,80,67,55,43,32,21
+2017,9CH0,"Chemistry Paper 03",120,95,80,66,52,39,26
+2017,9EC0,"Economics A Paper 01",100,79,70,61,52,43,34
+2017,9EC0,"Economics A Paper 02",100,76,67,57,48,39,30
+2017,9EC0,"Economics A Paper 03",100,78,69,59,50,41,32
+2017,9EB0,"Economics B Paper 01",100,68,59,51,43,35,28
+2017,9EB0,"Economics B Paper 02",100,66,57,49,41,33,26
+2017,9EB0,"Economics B Paper 03",100,73,63,55,47,39,31
+2017,9EN0,"English Language Paper 01",60,42,37,32,27,23,19
+2017,9EN0,"English Language Paper 02",45,34,30,26,22,18,14
+2017,9EN0,"English Language Paper 03",45,35,31,27,23,19,15
+2017,9EN0,"English Language Paper 04",50,50,44,38,32,27,22
+2017,9EL0,"English Language & Literature Paper 01",50,39,35,29,24,19,14
+2017,9EL0,"English Language & Literature Paper 02",50,39,35,29,24,19,14
+2017,9EL0,"English Language & Literature Paper 03",60,56,50,43,37,31,25
+2017,9ET0,"English Literature Paper 01",60,41,37,31,26,21,16
+2017,9ET0,"English Literature Paper 02",40,32,29,24,19,14,10
+2017,9ET0,"English Literature Paper 03",60,41,37,32,27,22,18
+2017,9ET0,"English Literature Paper 04",60,58,52,45,38,31,25
+2017,9FA0,"Fine Art Paper 01",90,70,63,51,39,27,15
+2017,9FA0,"Fine Art Paper 02",72,54,49,39,30,21,12
+2017,9GC0,"Graphic Communication Paper 01",90,70,63,51,39,27,15
+2017,9GC0,"Graphic Communication Paper 02",72,54,49,39,30,21,12
+2017,9HI0,"History Paper 1A",60,55,51,42,33,24,16
+2017,9HI0,"History Paper 1B",60,48,44,37,30,23,17
+2017,9HI0,"History Paper 1C",60,49,45,37,29,22,15
+2017,9HI0,"History Paper 1D",60,48,44,36,29,22,15
+2017,9HI0,"History Paper 1E",60,48,44,39,34,29,24
+2017,9HI0,"History Paper 1F",60,48,44,38,32,26,20
+2017,9HI0,"History Paper 1G",60,51,47,41,35,29,24
+2017,9HI0,"History Paper 1H",60,48,44,37,30,24,18
+2017,9HI0,"History Paper 2A",40,35,31,25,20,15,10
+2017,9HI0,"History Paper 2B",40,33,29,24,20,16,12
+2017,9HI0,"History Paper 2C",40,35,31,26,21,16,11
+2017,9HI0,"History Paper 2D",40,34,30,25,20,15,10
+2017,9HI0,"History Paper 2E",40,33,29,24,20,16,12
+2017,9HI0,"History Paper 2F",40,35,31,26,22,18,14
+2017,9HI0,"History Paper 2G",40,34,30,26,22,18,14
+2017,9HI0,"History Paper 2H",40,32,28,23,19,15,11
+2017,9HI0,"History Paper 30",60,50,45,37,29,21,13
+2017,9HI0,"History Paper 31",60,50,45,38,31,24,17
+2017,9HI0,"History Paper 32",60,54,49,40,31,22,14
+2017,9HI0,"History Paper 33",60,48,43,36,29,22,15
+2017,9HI0,"History Paper 34",60,52,47,39,31,23,16
+2017,9HI0,"History Paper 35",60,49,45,37,30,23,16
+2017,9HI0,"History Paper 36",60,51,46,38,30,22,14
+2017,9HI0,"History Paper 37",60,50,45,37,29,21,14
+2017,9HI0,"History Paper 38",60,50,45,37,29,21,13
+2017,9HI0,"History Paper 39",60,50,46,38,30,22,15
+2017,9HI0,"History Paper 04",40,36,32,28,24,20,16
+2017,9PY0,"Photography Paper 01",90,70,64,52,40,28,16
+2017,9PY0,"Photography Paper 02",72,55,50,41,32,23,15
+2017,9PH0,"Physics Paper 01",90,67,57,48,39,30,22
+2017,9PH0,"Physics Paper 02",90,64,55,46,37,29,21
+2017,9PH0,"Physics Paper 03",120,83,71,61,51,41,31
+2017,9PS0,"Psychology Paper 01",90,58,50,44,38,32,26
+2017,9PS0,"Psychology Paper 02",90,45,39,33,27,21,15
+2017,9PS0,"Psychology Paper 03",80,43,37,31,25,19,13
+2017,9TE0,"Textile Design Paper 01",90,70,63,51,39,27,15
+2017,9TE0,"Textile Design Paper 02",72,54,49,39,30,21,12
+2017,9TD0,"Three-Dimensional Design Paper 01",90,70,63,51,39,27,15
+2017,9TD0,"Three-Dimensional Design Paper 02",72,54,49,39,30,21,12
+2018,9AD0,"A level Art, Craft and Design Paper 01",90,70,63,51,39,27,15
+2018,9AD0,"A level Art, Craft and Design Paper 02",72,54,49,39,30,21,12
+2018,9AD0,"A level Art, Craft and Design Paper 01T",90,70,63,51,39,27,15
+2018,9BN0,"A level Biology A (Salters Nuffield) Paper 01",100,68,59,50,42,34,26
+2018,9BN0,"A level Biology A (Salters Nuffield) Paper 02",100,58,50,42,35,28,21
+2018,9BN0,"A level Biology A (Salters Nuffield) Paper 03",100,71,61,52,43,34,26
+2018,9BI0,"A level Biology B Paper 01",90,55,47,39,31,24,17
+2018,9BI0,"A level Biology B Paper 02",90,64,54,46,38,30,23
+2018,9BI0,"A level Biology B Paper 03",120,78,66,55,44,34,24
+2018,9BS0,"A level Business Paper 01",100,74,68,59,51,43,35
+2018,9BS0,"A level Business Paper 02",100,71,65,56,48,40,32
+2018,9BS0,"A level Business Paper 03",100,72,66,58,50,42,34
+2018,9CH0,"A level Chemistry Paper 01",90,82,70,58,46,34,22
+2018,9CH0,"A level Chemistry Paper 02",90,69,59,49,39,29,20
+2018,9CH0,"A level Chemistry Paper 03",120,99,85,70,55,40,26
+2018,9DR0,"A level Drama and Theatre Paper 01",80,69,64,55,47,39,31
+2018,9DR0,"A level Drama and Theatre Paper 02",60,51,47,40,34,28,22
+2018,9DR0,"A level Drama and Theatre Paper 03",80,61,56,47,39,31,23
+2018,9EC0,"A level Economics A Paper 01",100,77,69,60,51,42,34
+2018,9EC0,"A level Economics A Paper 02",100,77,69,60,51,43,35
+2018,9EC0,"A level Economics A Paper 03",100,80,72,63,54,46,38
+2018,9EB0,"A level Economics B Paper 01",100,70,59,51,43,35,28
+2018,9EB0,"A level Economics B Paper 02",100,64,54,47,40,33,26
+2018,9EB0,"A level Economics B Paper 03",100,65,55,47,40,33,26
+2018,9EN0,"A level English Language Paper 01",60,38,34,29,24,20,16
+2018,9EN0,"A level English Language Paper 02",45,30,27,23,19,15,11
+2018,9EN0,"A level English Language Paper 03",45,34,30,25,20,16,12
+2018,9EN0,"A level English Language Paper 04",50,47,44,38,32,27,22
+2018,9EN0,"A level English Language Paper 04T",50,47,44,38,32,27,22
+2018,9EL0,"A level English Language & Literature Paper 01",50,37,33,28,23,18,13
+2018,9EL0,"A level English Language & Literature Paper 02",50,37,33,28,23,18,13
+2018,9EL0,"A level English Language & Literature Paper 03",60,57,50,44,38,32,26
+2018,9EL0,"A level English Language & Literature Paper 03T",60,57,50,44,38,32,26
+2018,9ET0,"A level English Literature Paper 01",60,42,38,32,27,22,17
+2018,9ET0,"A level English Literature Paper 02",40,32,29,24,19,15,11
+2018,9ET0,"A level English Literature Paper 03",60,41,37,32,27,22,18
+2018,9ET0,"A level English Literature Paper 04",60,58,52,45,38,32,26
+2018,9ET0,"A level English Literature Paper 04T",60,58,52,45,38,32,26
+2018,9FA0,"A level Fine Art Paper 01",90,70,63,51,39,27,15
+2018,9FA0,"A level Fine Art Paper 01T",90,70,63,51,39,27,15
+2018,9FA0,"A level Fine Art Paper 02",72,54,49,39,30,21,12
+2018,9FR0,"A level French Paper 01",80,59,50,42,35,28,21
+2018,9FR0,"A level French Paper 02",120,98,83,72,61,50,39
+2018,9FR0,"A level French Paper 3A",72,62,53,45,37,30,23
+2018,9FR0,"A level French Paper 3B",72,62,53,45,37,30,23
+2018,9GE0,"Geography Paper 01",105,75,67,58,49,41,33
+2018,9GE0,"Geography Paper 02",105,75,67,58,49,41,33
+2018,9GE0,"Geography Paper 03",70,57,51,45,39,33,28
+2018,9GE0,"Geography Paper 04",70,62,55,47,39,31,24
+2018,9GN0,"A level German Paper 01",80,62,52,43,35,27,19
+2018,9GN0,"A level German Paper 02",120,104,87,72,57,43,29
+2018,9GN0,"A level German Paper 3A",72,64,53,44,36,28,20
+2018,9GN0,"A level German Paper 3B",72,64,53,44,36,28,20
+2018,9GC0,"Graphic Communication Paper 01",90,70,63,51,39,27,15
+2018,9GC0,"Graphic Communication Paper 02",72,54,49,39,30,21,12
+2018,9HI0,"A level History Paper 1A",60,52,47,39,31,23,15
+2018,9HI0,"A level History Paper 1B",60,49,44,37,30,23,17
+2018,9HI0,"A level History Paper 1C",60,49,44,36,29,22,15
+2018,9HI0,"A level History Paper 1D",60,49,44,36,29,22,15
+2018,9HI0,"A level History Paper 1E",60,50,45,39,33,27,21
+2018,9HI0,"A level History Paper 1F",60,49,44,38,32,26,20
+2018,9HI0,"A level History Paper 1G",60,51,46,40,34,28,23
+2018,9HI0,"A level History Paper 1H",60,49,44,37,30,24,18
+2018,9HI0,"A level History Paper 2A",40,34,31,26,21,16,11
+2018,9HI0,"A level History Paper 2B",40,31,28,24,20,16,12
+2018,9HI0,"A level History Paper 2C",40,33,30,25,20,15,11
+2018,9HI0,"A level History Paper 2D",40,33,30,25,20,16,12
+2018,9HI0,"A level History Paper 2E",40,32,29,24,20,16,12
+2018,9HI0,"A level History Paper 2F",40,33,30,26,22,18,14
+2018,9HI0,"A level History Paper 2G",40,34,31,26,22,18,14
+2018,9HI0,"A level History Paper 2H",40,32,29,24,19,14,10
+2018,9HI0,"A level History Paper 30",60,48,43,35,28,21,14
+2018,9HI0,"A level History Paper 31",60,49,44,37,30,23,17
+2018,9HI0,"A level History Paper 32",60,49,44,36,28,21,14
+2018,9HI0,"A level History Paper 33",60,48,43,36,29,22,15
+2018,9HI0,"A level History Paper 34",60,49,44,37,30,23,16
+2018,9HI0,"A level History Paper 35",60,50,45,38,31,24,17
+2018,9HI0,"A level History Paper 36",60,50,45,37,29,22,15
+2018,9HI0,"A level History Paper 37",60,50,45,37,29,22,15
+2018,9HI0,"A level History Paper 38",60,48,43,35,28,21,14
+2018,9HI0,"A level History Paper 39",60,48,43,36,29,22,15
+2018,9HI0,"A level History Paper 04",40,36,33,29,25,21,17
+2018,9HI0,"A level History Paper 04T",40,36,33,29,25,21,17
+2018,9MA0,"A level Mathematics Paper 01",100,87,70,59,48,37,26
+2018,9MA0,"A level Mathematics Paper 02",100,77,62,52,42,33,24
+2018,9MA0,"A level Mathematics Paper 03",100,65,52,44,36,28,20
+2018,9MU0,"A level Music Paper 01",60,56,50,42,35,28,21
+2018,9MU0,"A level Music Paper 02",60,52,46,39,32,26,20
+2018,9MU0,"A level Music Paper 03",100,75,66,58,50,42,34
+2018,9PY0,"A level Photography Paper 01",90,71,64,52,40,28,16
+2018,9PY0,"A level Photography Paper 01T",90,71,64,52,40,28,16
+2018,9PY0,"A level Photography Paper 02",72,56,50,41,32,23,15
+2018,9PE0,"A level Physical Education Paper 01",140,90,81,71,62,53,44
+2018,9PE0,"A level Physical Education Paper 02",100,49,44,38,33,28,23
+2018,9PE0,"A level Physical Education Paper 03",40,38,34,31,28,25,22
+2018,9PE0,"A level Physical Education Paper 04",40,38,34,29,24,20,16
+2018,9PH0,"A level Physics Paper 01",90,68,57,48,39,30,22
+2018,9PH0,"A level Physics Paper 02",90,62,52,43,34,25,17
+2018,9PH0,"A level Physics Paper 03",120,77,65,54,44,34,24
+2018,9PS0,"A level Psychology Paper 01",90,53,47,40,33,26,20
+2018,9PS0,"A level Psychology Paper 02",90,61,54,46,38,30,23
+2018,9PS0,"A level Psychology Paper 03",80,51,45,38,31,24,17
+2018,9RS0,"A level Religious Studies Paper 01",80,71,64,54,45,36,27
+2018,9RS0,"A level Religious Studies Paper 02",80,75,67,57,47,38,29
+2018,9RS0,"A level Religious Studies Paper 03",80,77,69,59,49,39,30
+2018,9RS0,"A level Religious Studies Paper 4A",80,79,71,60,49,38,27
+2018,9RS0,"A level Religious Studies Paper 4B",80,79,71,60,49,38,27
+2018,9RS0,"A level Religious Studies Paper 4C",80,77,69,59,49,39,30
+2018,9RS0,"A level Religious Studies Paper 4D",80,76,68,57,46,35,25
+2018,9RS0,"A level Religious Studies Paper 4E",80,77,69,58,48,38,28
+2018,9RS0,"A level Religious Studies Paper 4F",80,77,69,58,48,38,28
+2018,9SP0,"A level Spanish Paper 01",80,65,58,49,40,31,23
+2018,9SP0,"A level Spanish Paper 02",120,97,87,73,59,46,33
+2018,9SP0,"A level Spanish Paper 3A",72,60,54,45,36,27,19
+2018,9SP0,"A level Spanish Paper 3B",72,60,54,45,36,27,19
+2018,9TE0,"A level Textile Design Paper 01",90,70,63,51,39,27,15
+2018,9TE0,"A level Textile Design Paper 02",72,54,49,39,30,21,12
+2018,9TD0,"A level Three-Dimensional Design Paper 01",90,70,63,51,39,27,15
+2018,9TD0,"A level Three-Dimensional Design Paper 02",72,54,49,39,30,21,12
+2019,9TD0,"A Level Art and Design (3D Design) Paper 01",90,72,65,52,39,27,15
+2019,9TD0,"A Level Art and Design (3D Design) Paper 02",72,55,50,40,30,21,12
+2019,9FA0,"A Level Art and Design (Fine Art) Paper 01",90,72,65,52,39,27,15
+2019,9FA0,"A Level Art and Design (Fine Art) Paper 02",72,55,50,40,30,21,12
+2019,9GC0,"A Level Art and Design (Graphic Communication) Paper 01",90,72,65,52,39,27,15
+2019,9GC0,"A Level Art and Design (Graphic Communication) Paper 02",72,55,50,40,30,21,12
+2019,9GC0,"A Level Art and Design (Graphic Communication) Paper 01T",90,72,65,52,39,27,15
+2019,9PY0,"A Level Art and Design (Photography) Paper 01",90,72,65,52,40,28,16
+2019,9PY0,"A Level Art and Design (Photography) Paper 01T",90,72,65,52,40,28,16
+2019,9PY0,"A Level Art and Design (Photography) Paper 02",72,56,51,42,33,24,15
+2019,9TE0,"A Level Art and Design (Textile Design) Paper 01",90,72,65,52,39,27,15
+2019,9TE0,"A Level Art and Design (Textile Design) Paper 02",72,55,50,40,30,21,12
+2019,9AD0,"A Level Art, Craft And Design Paper 01",90,72,65,52,39,27,15
+2019,9AD0,"A Level Art, Craft And Design Paper 02",72,55,50,40,30,21,12
+2019,9BN0,"A Level Biology A (Salters Nuffield) Paper 01",100,73,63,55,47,39,31
+2019,9BN0,"A Level Biology A (Salters Nuffield) Paper 02",100,70,60,52,44,36,29
+2019,9BN0,"A Level Biology A (Salters Nuffield) Paper 03",100,61,52,45,38,31,24
+2019,9BI0,"A Level Biology B Paper 01",90,55,46,38,30,23,16
+2019,9BI0,"A Level Biology B Paper 02",90,68,57,48,39,30,22
+2019,9BI0,"A Level Biology B Paper 03",120,76,64,54,44,34,24
+2019,9BS0,"A Level Business Paper 01",100,75,68,59,51,43,35
+2019,9BS0,"A Level Business Paper 02",100,72,66,57,49,41,33
+2019,9BS0,"A Level Business Paper 03",100,74,67,59,51,43,35
+2019,9CH0,"A Level Chemistry Paper 01",90,67,56,46,36,26,16
+2019,9CH0,"A Level Chemistry Paper 02",90,75,63,51,40,29,18
+2019,9CH0,"A Level Chemistry Paper 03",120,99,83,68,53,38,23
+2019,9CN0,"A Level Chinese Paper 01",80,67,60,52,44,36,29
+2019,9CN0,"A Level Chinese Paper 02",120,93,83,72,61,50,39
+2019,9CN0,"A Level Chinese Paper 03",72,58,52,45,38,31,25
+2019,9DT0,"A Level Design and Technology Paper 01",120,80,72,62,52,42,33
+2019,9DT0,"A Level Design and Technology Paper 02",120,101,91,78,65,52,40
+2019,9DR0,"A Level Drama and Theatre Paper 01",80,70,64,55,47,39,31
+2019,9DR0,"A Level Drama and Theatre Paper 02",60,52,47,40,34,28,22
+2019,9DR0,"A Level Drama and Theatre Paper 03",80,65,59,50,41,33,25
+2019,9DR0,"A Level Drama and Theatre Paper 01T",80,70,64,55,47,39,31
+2019,9DR0,"A Level Drama and Theatre Paper 02T",60,52,47,40,34,28,22
+2019,9EC0,"A Level Economics A Paper 01",100,80,72,62,53,44,35
+2019,9EC0,"A Level Economics A Paper 02",100,82,73,63,54,45,36
+2019,9EC0,"A Level Economics A Paper 03",100,78,70,61,52,43,35
+2019,9EB0,"A Level Economics B Paper 01",100,67,59,51,43,36,29
+2019,9EB0,"A Level Economics B Paper 02",100,62,55,48,41,34,28
+2019,9EB0,"A Level Economics B Paper 03",100,67,59,51,44,37,30
+2019,9EN0,"A Level English Language Paper 01",60,38,33,28,24,20,16
+2019,9EN0,"A Level English Language Paper 02",45,30,26,22,18,14,11
+2019,9EN0,"A Level English Language Paper 03",45,33,29,24,20,16,12
+2019,9EN0,"A Level English Language Paper 04",50,47,44,38,32,27,22
+2019,9EN0,"A Level English Language Paper 04T",50,47,44,38,32,27,22
+2019,9EL0,"A Level English Language & Literature Paper 01",50,39,35,30,25,20,15
+2019,9EL0,"A Level English Language & Literature Paper 02",50,40,36,30,25,20,15
+2019,9EL0,"A Level English Language & Literature Paper 03",60,55,50,44,38,32,26
+2019,9EL0,"A Level English Language & Literature Paper 03T",60,55,50,44,38,32,26
+2019,9ET0,"A Level English Literature Paper 01",60,42,38,32,27,22,17
+2019,9ET0,"A Level English Literature Paper 02",40,33,30,25,21,17,13
+2019,9ET0,"A Level English Literature Paper 03",60,40,36,31,26,22,18
+2019,9ET0,"A Level English Literature Paper 04",60,58,52,45,38,32,26
+2019,9ET0,"A Level English Literature Paper 04T",60,58,52,45,38,32,26
+2019,9FR0,"A Level French Paper 01",80,61,51,42,34,26,18
+2019,9FR0,"A Level French Paper 02",120,102,85,72,59,46,34
+2019,9FR0,"A Level French Paper 03",72,62,52,42,33,24,15
+2019,9GE0,"A Level Geography Paper 01",105,75,67,58,49,41,33
+2019,9GE0,"A Level Geography Paper 02",105,74,66,57,49,41,33
+2019,9GE0,"A Level Geography Paper 03",70,57,51,45,40,35,30
+2019,9GE0,"A Level Geography Paper 04",70,62,55,48,41,34,27
+2019,9GE0,"A Level Geography Paper 04T",70,62,55,48,41,34,27
+2019,9GN0,"A Level German Paper 01",80,63,53,43,34,25,16
+2019,9GN0,"A Level German Paper 02",120,102,86,69,53,37,21
+2019,9GN0,"A Level German Paper 03",72,63,53,44,35,26,18
+2019,9HI0,"A Level History Paper 1A",60,49,45,37,29,22,15
+2019,9HI0,"A Level History Paper 1B",60,49,45,38,31,24,17
+2019,9HI0,"A Level History Paper 1C",60,48,44,37,30,23,17
+2019,9HI0,"A Level History Paper 1D",60,50,46,38,30,23,16
+2019,9HI0,"A Level History Paper 1E",60,50,46,39,33,27,21
+2019,9HI0,"A Level History Paper 1F",60,48,44,38,32,26,20
+2019,9HI0,"A Level History Paper 1G",60,50,46,40,34,28,23
+2019,9HI0,"A Level History Paper 1H",60,49,45,38,31,25,19
+2019,9HI0,"A Level History Paper 2A",40,35,32,26,21,16,11
+2019,9HI0,"A Level History Paper 2B",40,32,29,24,20,16,12
+2019,9HI0,"A Level History Paper 2C",40,33,30,25,20,16,12
+2019,9HI0,"A Level History Paper 2D",40,34,31,26,21,17,13
+2019,9HI0,"A Level History Paper 2E",40,33,30,25,20,16,12
+2019,9HI0,"A Level History Paper 2F",40,34,31,26,22,18,14
+2019,9HI0,"A Level History Paper 2G",40,33,30,25,21,17,13
+2019,9HI0,"A Level History Paper 2H",40,31,28,23,19,15,11
+2019,9HI0,"A Level History Paper 030",60,49,45,37,29,22,15
+2019,9HI0,"A Level History Paper 031",60,49,45,38,31,24,18
+2019,9HI0,"A Level History Paper 032",60,48,44,36,28,21,14
+2019,9HI0,"A Level History Paper 033",60,48,44,37,30,24,18
+2019,9HI0,"A Level History Paper 034",60,49,45,38,31,24,17
+2019,9HI0,"A Level History Paper 035",60,49,45,38,31,24,18
+2019,9HI0,"A Level History Paper 036",60,49,45,37,30,23,16
+2019,9HI0,"A Level History Paper 037",60,50,46,38,30,22,15
+2019,9HI0,"A Level History Paper 038",60,47,43,35,28,21,14
+2019,9HI0,"A Level History Paper 039",60,47,43,36,29,22,15
+2019,9HI0,"A Level History Paper 04",40,37,34,30,26,22,18
+2019,9HI0,"A Level History Paper 04T",40,37,34,30,26,22,18
+2019,9HT0,"A Level History of Art Paper 01",110,86,72,57,43,29,15
+2019,9HT0,"A Level History of Art Paper 02",110,83,69,55,41,28,15
+2019,9IN0,"A Level Italian Paper 01",80,68,59,50,42,34,26
+2019,9IN0,"A Level Italian Paper 02",120,98,86,73,60,47,35
+2019,9IN0,"A Level Italian Paper 3A",72,60,52,44,36,29,22
+2019,9MU0,"A Level Music Paper 01",60,56,50,42,35,28,21
+2019,9MU0,"A Level Music Paper 02",60,49,44,37,31,25,19
+2019,9MU0,"A Level Music Paper 03",100,66,59,50,42,34,26
+2019,9MU0,"A Level Music Paper 01T",60,56,50,42,35,28,21
+2019,9MU0,"A Level Music Paper 02T",60,49,44,37,31,25,19
+2019,9MT0,"A Level Music Technology Paper 01",60,55,50,44,38,33,28
+2019,9MT0,"A Level Music Technology Paper 02",60,53,48,42,36,30,24
+2019,9MT0,"A Level Music Technology Paper 03",75,56,51,45,39,33,27
+2019,9MT0,"A Level Music Technology Paper 04",105,83,76,66,56,46,36
+2019,9PE0,"A Level Physical Education Paper 01",140,72,64,55,47,39,31
+2019,9PE0,"A Level Physical Education Paper 02",100,63,56,49,42,36,30
+2019,9PE0,"A Level Physical Education Paper 03",40,38,34,31,28,25,22
+2019,9PE0,"A Level Physical Education Paper 04",40,38,34,29,24,20,16
+2019,9PE0,"A Level Physical Education Paper 03T",40,38,34,31,28,25,22
+2019,9PE0,"A Level Physical Education Paper 04T",40,38,34,29,24,20,16
+2019,9PH0,"A Level Physics Paper 01",90,62,53,44,35,26,18
+2019,9PH0,"A Level Physics Paper 02",90,61,52,43,34,26,18
+2019,9PH0,"A Level Physics Paper 03",120,83,71,60,49,39,29
+2019,9PL0,"A Level Politics Paper 01",84,62,54,45,37,29,21
+2019,9PL0,"A Level Politics Paper 02",84,63,55,46,38,30,22
+2019,9PL0,"A Level Politics Paper 3A",84,58,51,42,34,26,18
+2019,9PL0,"A Level Politics Paper 3B",84,67,58,49,41,33,25
+2019,9PS0,"A Level Psychology Paper 01",90,57,50,43,36,29,23
+2019,9PS0,"A Level Psychology Paper 02",90,55,48,40,33,26,19
+2019,9PS0,"A Level Psychology Paper 03",80,49,43,36,29,22,16
+2019,9RS0,"A Level Religious Studies Paper 01",80,70,63,53,43,33,24
+2019,9RS0,"A Level Religious Studies Paper 02",80,73,66,56,46,36,26
+2019,9RS0,"A Level Religious Studies Paper 03",80,75,68,57,47,37,27
+2019,9RS0,"A Level Religious Studies Paper 4A",80,72,65,54,44,34,24
+2019,9RS0,"A Level Religious Studies Paper 4B",80,69,62,52,42,32,23
+2019,9RS0,"A Level Religious Studies Paper 4C",80,71,64,55,46,38,30
+2019,9RS0,"A Level Religious Studies Paper 4D",80,74,67,56,45,34,23
+2019,9RS0,"A Level Religious Studies Paper 4E",80,74,67,57,47,37,28
+2019,9RS0,"A Level Religious Studies Paper 4F",80,76,69,58,48,38,28
+2019,9RU0,"A Level Russian Paper 01",80,64,49,42,35,28,22
+2019,9RU0,"A Level Russian Paper 02",120,104,80,67,54,41,29
+2019,9RU0,"A Level Russian Paper 3A",72,65,50,42,34,27,20
+2019,9SP0,"A Level Spanish Paper 01",80,65,57,48,39,31,23
+2019,9SP0,"A Level Spanish Paper 02",120,100,88,72,56,40,24
+2019,9SP0,"A Level Spanish Paper 03",72,61,54,45,36,27,18
+2019,9ST0,"A Level Statistics Paper 01",80,68,60,50,40,30,21
+2019,9ST0,"A Level Statistics Paper 02",80,68,60,50,40,30,20
+2019,9ST0,"A Level Statistics Paper 03",80,69,61,51,41,31,21
+2020,9AA0,"A Level Arabic Paper 01",80,61,49,42,35,29,23
+2020,9AA0,"A Level Arabic Paper 02",110,83,67,58,49,40,32
+2020,9AA0,"A Level Arabic Paper 03",60,44,36,31,26,22,18
+2020,9FA0,"A Level Art and Design (Fine Art) Paper 02",72,55,47,37,27,18,9
+2020,9PY0,"A Level Art and Design (Photography) Paper 02",72,55,47,37,27,18,9
+2020,9TE0,"A Level Art and Design (Textile Design) Paper 02",72,55,47,37,27,18,9
+2020,9AD0,"A Level Art, Craft And Design Paper 02",72,55,47,37,27,18,9
+2020,9BN0,"A Level Biology A (Salters Nuffield) Paper 01",100,70,59,49,39,30,21
+2020,9BN0,"A Level Biology A (Salters Nuffield) Paper 02",100,66,56,46,37,28,19
+2020,9BN0,"A Level Biology A (Salters Nuffield) Paper 03",100,57,48,39,31,23,15
+2020,9BI0,"A Level Biology B Paper 01",90,50,41,34,27,20,14
+2020,9BI0,"A Level Biology B Paper 02",90,64,52,42,32,23,14
+2020,9BI0,"A Level Biology B Paper 03",120,73,60,49,38,27,16
+2020,9BS0,"A Level Business Paper 01",100,73,66,55,44,34,24
+2020,9BS0,"A Level Business Paper 02",100,70,63,53,43,33,23
+2020,9BS0,"A Level Business Paper 03",100,70,63,53,43,33,24
+2020,9CH0,"A Level Chemistry Paper 01",90,68,53,42,31,20,9
+2020,9CH0,"A Level Chemistry Paper 02",90,68,53,42,31,20,9
+2020,9CH0,"A Level Chemistry Paper 03",120,92,72,57,42,28,14
+2020,9CN0,"A Level Chinese Paper 01",80,61,49,42,35,29,23
+2020,9CN0,"A Level Chinese Paper 02",120,89,72,63,54,45,36
+2020,9DT0,"A Level Design and Technology Paper 01",120,74,63,51,40,29,18
+2020,9DT0,"A Level Design and Technology Paper 01",120,74,63,51,40,29,18
+2020,9DR0,"A Level Drama and Theatre Paper 03",80,58,47,36,25,15,5
+2020,9EC0,"A Level Economics A Paper 01",100,77,68,56,44,33,22
+2020,9EC0,"A Level Economics A Paper 02",100,77,68,56,45,34,23
+2020,9EC0,"A Level Economics A Paper 03",100,76,67,55,44,33,22
+2020,9EB0,"A Level Economics B Paper 01",100,64,56,45,34,24,14
+2020,9EB0,"A Level Economics B Paper 02",100,58,51,41,32,23,14
+2020,9EB0,"A Level Economics B Paper 03",100,64,56,45,34,23,13
+2020,9EN0,"A Level English Language Paper 01",60,34,29,24,20,16,12
+2020,9EN0,"A Level English Language Paper 02",45,29,25,20,16,12,8
+2020,9EN0,"A Level English Language Paper 03",45,30,26,21,17,13,9
+2020,9EL0,"A Level English Language & Literature Paper 01",50,37,32,27,22,17,12
+2020,9EL0,"A Level English Language & Literature Paper 02",50,38,33,28,23,18,13
+2020,9ET0,"A Level English Literature Paper 01",60,42,36,29,23,17,11
+2020,9ET0,"A Level English Literature Paper 02",40,29,25,20,16,12,8
+2020,9ET0,"A Level English Literature Paper 03",60,41,35,29,23,17,12
+2020,9FR0,"A Level French Paper 01",80,57,44,35,27,19,11
+2020,9FR0,"A Level French Paper 02",120,86,66,52,39,26,13
+2020,9GE0,"A Level Geography Paper 01",105,73,65,53,41,29,18
+2020,9GE0,"A Level Geography Paper 02",105,73,65,53,41,29,18
+2020,9GE0,"A Level Geography Paper 03",70,48,43,35,27,19,12
+2020,9GN0,"A Level German Paper 01",80,62,45,37,29,21,13
+2020,9GN0,"A Level German Paper 02",120,92,67,54,41,28,15
+2020,9GK0,"A Level Greek Paper 01",80,61,49,42,35,29,23
+2020,9GK0,"A Level Greek Paper 02",110,83,67,58,49,40,32
+2020,9GK0,"A Level Greek Paper 03",60,44,36,31,26,22,18
+2020,9HI0,"A Level History Paper 1A",60,49,44,35,27,19,11
+2020,9HI0,"A Level History Paper 1B",60,48,43,35,27,20,13
+2020,9HI0,"A Level History Paper 1C",60,47,42,34,27,20,13
+2020,9HI0,"A Level History Paper 1D",60,49,44,36,28,20,13
+2020,9HI0,"A Level History Paper 1E",60,48,43,35,28,21,14
+2020,9HI0,"A Level History Paper 1F",60,47,42,35,28,21,15
+2020,9HI0,"A Level History Paper 1G",60,47,42,35,28,22,16
+2020,9HI0,"A Level History Paper 1H",60,46,41,34,27,20,14
+2020,9HI0,"A Level History Paper 2A",40,31,28,23,18,13,9
+2020,9HI0,"A Level History Paper 2B",40,30,27,22,17,13,9
+2020,9HI0,"A Level History Paper 2C",40,31,28,23,18,13,9
+2020,9HI0,"A Level History Paper 2D",40,31,28,23,18,13,9
+2020,9HI0,"A Level History Paper 2E",40,31,28,23,19,15,11
+2020,9HI0,"A Level History Paper 2F",40,31,28,23,19,15,11
+2020,9HI0,"A Level History Paper 2G",40,33,29,24,20,16,12
+2020,9HI0,"A Level History Paper 2H",40,31,28,23,18,13,9
+2020,9HI0,"A Level History Paper 30",60,46,41,33,26,19,12
+2020,9HI0,"A Level History Paper 31",60,45,40,33,26,19,13
+2020,9HI0,"A Level History Paper 33",60,45,40,33,27,21,15
+2020,9HI0,"A Level History Paper 34",60,46,41,34,27,20,14
+2020,9HI0,"A Level History Paper 35",60,46,41,34,27,21,15
+2020,9HI0,"A Level History Paper 36",60,46,41,34,27,20,13
+2020,9HI0,"A Level History Paper 37",60,47,42,34,26,19,12
+2020,9HI0,"A Level History Paper 38",60,44,39,32,25,18,12
+2020,9HI0,"A Level History Paper 39",60,44,39,32,25,18,12
+2020,9HT0,"A Level History of Art Paper 01",110,75,62,50,38,26,15
+2020,9HT0,"A Level History of Art Paper 02",110,74,61,49,37,25,14
+2020,9IN0,"A Level Italian Paper 01",80,66,56,48,41,34,27
+2020,9IN0,"A Level Italian Paper 02",120,100,85,74,63,52,42
+2020,9JA0,"A Level Japanese Paper 01",80,61,49,42,35,29,23
+2020,9JA0,"A Level Japanese Paper 02",110,83,67,58,49,40,32
+2020,9JA0,"A Level Japanese Paper 03",60,44,36,31,26,22,18
+2020,9MU0,"A Level Music Paper 03",100,57,44,35,27,19,11
+2020,9MT0,"A Level Music Technology Paper 03",75,57,49,40,31,22,13
+2020,9MT0,"A Level Music Technology Paper 04",105,80,69,58,47,36,25
+2020,9PN0,"A Level Persian Paper 01",80,61,49,42,35,29,23
+2020,9PN0,"A Level Persian Paper 02",110,83,67,58,49,40,32
+2020,9PN0,"A Level Persian Paper 03",60,44,36,31,26,22,18
+2020,9PE0,"A Level Physical Education Paper 01",140,74,64,53,42,31,20
+2020,9PE0,"A Level Physical Education Paper 02",100,52,45,37,29,22,15
+2020,9PH0,"A Level Physics Paper 01",90,57,47,39,31,23,16
+2020,9PH0,"A Level Physics Paper 02",90,57,47,39,32,25,18
+2020,9PH0,"A Level Physics Paper 03",120,78,64,54,45,36,27
+2020,9PL0,"A Level Politics Paper 01",84,57,49,39,29,20,11
+2020,9PL0,"A Level Politics Paper 02",84,58,50,40,30,21,12
+2020,9PL0,"A Level Politics Paper 3A",84,56,48,39,30,21,12
+2020,9PL0,"A Level Politics Paper 3B",84,62,53,44,35,27,19
+2020,9PG0,"A Level Portuguese Paper 01",80,61,49,42,35,29,23
+2020,9PG0,"A Level Portuguese Paper 02",110,83,67,58,49,40,32
+2020,9PG0,"A Level Portuguese Paper 03",60,44,36,31,26,22,18
+2020,9PS0,"A Level Psychology Paper 01",90,52,45,37,29,21,13
+2020,9PS0,"A Level Psychology Paper 02",90,51,44,36,28,20,12
+2020,9PS0,"A Level Psychology Paper 03",80,45,39,31,24,17,10
+2020,9RS0,"A Level Religious Studies Paper 01",80,68,60,49,38,27,17
+2020,9RS0,"A Level Religious Studies Paper 02",80,70,62,51,40,29,18
+2020,9RS0,"A Level Religious Studies Paper 03",80,70,62,51,40,29,18
+2020,9RS0,"A Level Religious Studies Paper 4A",80,67,59,48,37,26,15
+2020,9RS0,"A Level Religious Studies Paper 4B",80,63,56,45,34,24,14
+2020,9RS0,"A Level Religious Studies Paper 4D",80,69,61,49,37,25,14
+2020,9RU0,"A Level Russian Paper 01",80,59,39,31,23,15,8
+2020,9RU0,"A Level Russian Paper 02",120,89,59,47,35,23,11
+2020,9SP0,"A Level Spanish Paper 01",80,60,50,39,29,19,9
+2020,9SP0,"A Level Spanish Paper 02",120,90,75,59,43,27,11
+2020,9ST0,"A Level Statistics Paper 01",80,66,54,43,33,23,13
+2020,9ST0,"A Level Statistics Paper 02",80,66,54,43,33,23,13
+2020,9ST0,"A Level Statistics Paper 03",80,67,55,44,33,23,13
+2020,9TU0,"A Level Turkish Paper 01",80,61,49,42,35,29,23
+2020,9TU0,"A Level Turkish Paper 02",110,83,67,58,49,40,32
+2020,9TU0,"A Level Turkish Paper 03",60,44,36,31,26,22,18
+2020,9UR0,"A Level Urdu Paper 01",80,61,49,42,35,29,23
+2020,9UR0,"A Level Urdu Paper 02",110,83,67,58,49,40,32
+2020,9UR0,"A Level Urdu Paper 03",60,44,36,31,26,22,18
+2021,9AA0,"A Level Arabic Paper 01",80,57,41,35,29,23,18
+2021,9AA0,"A Level Arabic Paper 02",110,79,56,48,40,32,24
+2021,9AA0,"A Level Arabic Paper 03",60,42,30,25,21,17,13
+2021,9FA0,"A Level Art and Design (Fine Art) Paper 02",72,53,45,35,26,17,8
+2021,9PY0,"A Level Art and Design (Photography) Paper 02",72,53,45,35,26,17,8
+2021,9TE0,"A Level Art and Design (Textile Design) Paper 02",72,53,45,35,26,17,8
+2021,9AD0,"A Level Art, Craft And Design Paper 02",72,53,45,35,26,17,8
+2021,9BN0,"A Level Biology A (Salters Nuffield) Paper 01",100,66,55,46,37,29,21
+2021,9BN0,"A Level Biology A (Salters Nuffield) Paper 02",100,64,54,45,36,28,20
+2021,9BN0,"A Level Biology A (Salters Nuffield) Paper 03",100,55,46,38,31,24,17
+2021,9BI0,"A Level Biology B Paper 01",90,53,43,35,27,20,13
+2021,9BI0,"A Level Biology B Paper 02",90,52,42,34,26,19,12
+2021,9BI0,"A Level Biology B Paper 03",120,71,57,46,36,26,16
+2021,9BS0,"A Level Business Paper 01",100,70,63,53,44,35,26
+2021,9BS0,"A Level Business Paper 02",100,68,62,52,42,33,24
+2021,9BS0,"A Level Business Paper 03",100,70,63,53,44,35,26
+2021,9CH0,"A Level Chemistry Paper 01",90,70,54,43,32,22,12
+2021,9CH0,"A Level Chemistry Paper 02",90,68,51,40,30,20,10
+2021,9CH0,"A Level Chemistry Paper 03",120,88,71,57,44,31,18
+2021,9CN0,"A Level Chinese Paper 01",80,56,45,38,32,26,20
+2021,9CN0,"A Level Chinese Paper 02",120,82,66,58,50,42,34
+2021,9DT0,"A Level Design and Technology Paper 01",120,69,59,49,39,30,21
+2021,9DR0,"A Level Drama and Theatre Paper 03",80,54,44,34,25,16,7
+2021,9EC0,"A Level Economics A Paper 01",100,72,64,53,42,32,22
+2021,9EC0,"A Level Economics A Paper 02",100,75,66,55,44,33,23
+2021,9EC0,"A Level Economics A Paper 03",100,77,68,56,44,33,22
+2021,9EB0,"A Level Economics B Paper 01",100,60,53,43,33,23,14
+2021,9EB0,"A Level Economics B Paper 02",100,60,53,43,33,23,14
+2021,9EB0,"A Level Economics B Paper 03",100,61,53,43,33,23,13
+2021,9EN0,"A Level English Language Paper 01",60,32,27,23,19,15,12
+2021,9EN0,"A Level English Language Paper 02",45,29,25,21,17,13,10
+2021,9EN0,"A Level English Language Paper 03",45,28,25,21,17,13,10
+2021,9EL0,"A Level English Language & Literature Paper 01",50,36,31,26,22,18,14
+2021,9EL0,"A Level English Language & Literature Paper 02",50,35,31,26,22,18,14
+2021,9ET0,"A Level English Literature Paper 01",60,40,35,29,23,17,11
+2021,9ET0,"A Level English Literature Paper 02",40,27,23,19,15,11,8
+2021,9ET0,"A Level English Literature Paper 03",60,39,34,28,22,17,12
+2021,9FR0,"A Level French Paper 01",80,54,41,33,25,17,10
+2021,9FR0,"A Level French Paper 02",120,81,62,50,38,26,15
+2021,9FM0,"A Level Further Mathematics Paper 01",75,51,42,33,24,15,6
+2021,9FM0,"A Level Further Mathematics Paper 02",75,49,39,30,22,14,6
+2021,9FM0,"A Level Further Mathematics Paper 3A",75,53,41,32,23,15,7
+2021,9FM0,"A Level Further Mathematics Paper 3B",75,52,43,34,25,16,7
+2021,9FM0,"A Level Further Mathematics Paper 3C",75,57,44,35,26,17,9
+2021,9FM0,"A Level Further Mathematics Paper 3D",75,49,40,32,24,16,8
+2021,9FM0,"A Level Further Mathematics Paper 4A",75,50,41,32,24,16,8
+2021,9FM0,"A Level Further Mathematics Paper 4B",75,58,46,36,26,17,8
+2021,9FM0,"A Level Further Mathematics Paper 4C",75,62,47,37,27,18,9
+2021,9FM0,"A Level Further Mathematics Paper 4D",75,51,39,30,21,13,5
+2021,9GE0,"A Level Geography Paper 01",105,71,63,51,40,29,18
+2021,9GE0,"A Level Geography Paper 02",105,71,63,51,40,29,18
+2021,9GE0,"A Level Geography Paper 03",70,48,42,34,26,19,12
+2021,9GN0,"A Level German Paper 01",80,57,40,32,25,18,11
+2021,9GN0,"A Level German Paper 02",120,83,60,48,37,26,15
+2021,9HI0,"A Level History Paper 1A",60,47,42,34,27,20,13
+2021,9HI0,"A Level History Paper 1C",60,45,40,33,27,21,15
+2021,9HI0,"A Level History Paper 1D",60,47,42,35,28,21,14
+2021,9HI0,"A Level History Paper 1E",60,48,42,35,29,23,17
+2021,9HI0,"A Level History Paper 1F",60,46,41,35,29,23,17
+2021,9HI0,"A Level History Paper 1G",60,47,42,36,30,24,18
+2021,9HI0,"A Level History Paper 1H",60,46,40,33,27,21,15
+2021,9HI0,"A Level History Paper 2A",40,32,28,23,18,13,8
+2021,9HI0,"A Level History Paper 2C",40,31,27,23,19,15,11
+2021,9HI0,"A Level History Paper 2D",40,32,28,23,18,14,10
+2021,9HI0,"A Level History Paper 2E",40,30,27,23,19,15,11
+2021,9HI0,"A Level History Paper 2F",40,31,27,23,19,15,12
+2021,9HI0,"A Level History Paper 2G",40,31,27,23,19,16,13
+2021,9HI0,"A Level History Paper 2H",40,29,26,22,18,14,10
+2021,9HI0,"A Level History Paper 30",60,45,40,33,26,19,13
+2021,9HI0,"A Level History Paper 31",60,45,40,34,28,22,16
+2021,9HI0,"A Level History Paper 33",60,44,39,33,27,21,16
+2021,9HI0,"A Level History Paper 34",60,45,40,33,27,21,15
+2021,9HI0,"A Level History Paper 35",60,45,40,34,28,22,16
+2021,9HI0,"A Level History Paper 36",60,45,40,33,26,20,14
+2021,9HI0,"A Level History Paper 37",60,46,41,34,27,20,13
+2021,9HI0,"A Level History Paper 38",60,43,38,31,24,18,12
+2021,9HI0,"A Level History Paper 39",60,43,38,32,26,20,14
+2021,9HT0,"A Level History of Art Paper 01",110,72,56,45,35,25,15
+2021,9HT0,"A Level History of Art Paper 02",110,71,56,45,34,24,14
+2021,9IN0,"A Level Italian Paper 01",80,75,63,52,42,32,22
+2021,9IN0,"A Level Italian Paper 02",120,75,63,52,42,32,22
+2021,9JA0,"A Level Japanese Paper 01",80,57,41,35,29,23,18
+2021,9JA0,"A Level Japanese Paper 02",110,79,56,48,40,32,24
+2021,9JA0,"A Level Japanese Paper 03",60,42,30,25,21,17,13
+2021,9MA0,"A Level Mathematics Paper 01",100,71,54,44,34,24,14
+2021,9MA0,"A Level Mathematics Paper 02",100,71,54,44,34,24,14
+2021,9MA0,"A Level Mathematics Paper 03",100,65,49,40,31,22,14
+2021,9MU0,"A Level Music Paper 03",100,52,39,32,25,18,12
+2021,9PN0,"A Level Persian Paper 01",80,57,41,35,29,23,18
+2021,9PN0,"A Level Persian Paper 02",110,79,56,48,40,32,24
+2021,9PN0,"A Level Persian Paper 03",60,42,30,25,21,17,13
+2021,9PE0,"A Level Physical Education Paper 01",140,70,60,50,40,30,20
+2021,9PE0,"A Level Physical Education Paper 02",100,48,42,35,28,21,15
+2021,9PH0,"A Level Physics Paper 01",90,56,46,38,31,24,17
+2021,9PH0,"A Level Physics Paper 02",90,56,46,38,31,24,17
+2021,9PH0,"A Level Physics Paper 03",120,74,61,52,43,35,27
+2021,9PL0,"A Level Politics Paper 01",84,55,47,38,30,22,14
+2021,9PL0,"A Level Politics Paper 02",84,56,48,39,30,21,13
+2021,9PL0,"A Level Politics Paper 3A",84,54,46,37,29,21,13
+2021,9PL0,"A Level Politics Paper 3B",84,61,53,44,36,28,20
+2021,9PG0,"A Level Portuguese Paper 01",80,57,41,35,29,23,18
+2021,9PG0,"A Level Portuguese Paper 02",110,79,56,48,40,32,24
+2021,9PG0,"A Level Portuguese Paper 03",60,42,30,25,21,17,13
+2021,9PS0,"A Level Psychology Paper 01",90,50,43,36,29,22,16
+2021,9PS0,"A Level Psychology Paper 02",90,48,41,34,27,20,14
+2021,9PS0,"A Level Psychology Paper 03",80,45,38,30,23,16,9
+2021,9RS0,"A Level Religious Studies Paper 01",80,65,56,46,36,26,17
+2021,9RS0,"A Level Religious Studies Paper 02",80,68,60,50,40,30,20
+2021,9RS0,"A Level Religious Studies Paper 03",80,70,61,50,40,30,20
+2021,9RS0,"A Level Religious Studies Paper 4B",80,64,55,45,35,25,16
+2021,9RS0,"A Level Religious Studies Paper 4D",80,69,60,49,38,27,16
+2021,9RU0,"A Level Russian Paper 01",80,61,41,33,25,17,9
+2021,9RU0,"A Level Russian Paper 02",120,63,42,33,25,17,9
+2021,9SP0,"A Level Spanish Paper 01",80,55,45,36,27,18,9
+2021,9SP0,"A Level Spanish Paper 02",120,90,73,57,41,26,11
+2021,9ST0,"A Level Statistics Paper 01",80,61,52,43,34,25,16
+2021,9ST0,"A Level Statistics Paper 02",80,60,51,42,33,24,16
+2021,9ST0,"A Level Statistics Paper 03",80,61,51,42,33,24,15
+2021,9TU0,"A Level Turkish Paper 01",80,57,41,35,29,23,18
+2021,9TU0,"A Level Turkish Paper 02",110,79,56,48,40,32,24
+2021,9TU0,"A Level Turkish Paper 03",60,42,30,25,21,17,13
+2021,9UR0,"A Level Urdu Paper 01",80,57,41,35,29,23,18
+2021,9UR0,"A Level Urdu Paper 02",110,78,56,48,40,32,24
+2021,9UR0,"A Level Urdu Paper 03",60,42,30,25,21,17,13
+2022,9AA0,"A Level Arabic Paper 1",80,55,43,36,29,23,17
+2022,9AA0,"A Level Arabic Paper 2",110,79,61,51,42,33,24
+2022,9AA0,"A Level Arabic Paper 3",60,41,32,27,22,18,14
+2022,9AD0,"A Level Art, Craft And Design Paper 1",150,118,105,84,63,42,22
+2022,9FA0,"A Level Art and Design (Fine Art) Paper 1",150,118,105,84,63,42,22
+2022,9GC0,"A Level Art and Design (Graphic Communication) Paper 1",150,118,105,84,63,42,22
+2022,9PY0,"A Level Art and Design (Photography) Paper 1",150,119,107,86,65,44,24
+2022,9TD0,"A Level Art and Design (3D Design) Paper 1",150,118,105,84,63,42,22
+2022,9TE0,"A Level Art and Design (Textile Design) Paper 1",150,118,105,84,63,42,22
+2022,9BN0,"A Level Biology A (Salters Nuffield) Paper 1",100,66,55,45,36,27,18
+2022,9BN0,"A Level Biology A (Salters Nuffield) Paper 2",100,56,47,39,31,23,15
+2022,9BN0,"A Level Biology A (Salters Nuffield) Paper 3",100,64,53,43,34,25,16
+2022,9BI0,"A Level Biology B Paper 1",90,54,43,35,27,20,13
+2022,9BI0,"A Level Biology B Paper 2",90,58,46,37,29,21,13
+2022,9BI0,"A Level Biology B Paper 3",120,73,58,47,37,27,17
+2022,9BS0,"A Level Business Paper 1",100,72,66,56,46,36,27
+2022,9BS0,"A Level Business Paper 2",100,71,65,55,45,35,25
+2022,9BS0,"A Level Business Paper 3",100,70,64,54,44,34,24
+2022,9CH0,"A Level Chemistry Paper 1",90,71,58,47,36,25,14
+2022,9CH0,"A Level Chemistry Paper 2",90,69,56,45,34,23,13
+2022,9CH0,"A Level Chemistry Paper 3",120,95,78,63,48,34,20
+2022,9CN0,"A Level Chinese Paper 1",80,60,55,45,35,26,17
+2022,9CN0,"A Level Chinese Paper 2",120,90,82,68,54,40,26
+2022,9CN0,"A Level Chinese Paper 3",72,56,51,42,33,25,17
+2022,9DT0,"A Level Design and Technology Paper 1",120,77,67,55,44,33,22
+2022,9DT0,"A Level Design and Technology Paper 2",102,88,77,64,51,39,27
+2022,9DR0,"A Level Drama and Theatre Paper 1",80,66,59,50,41,33,25
+2022,9DR0,"A Level Drama and Theatre Paper 2A",24,19,17,15,13,11,9
+2022,9DR0,"A Level Drama and Theatre Paper 2B",36,32,28,24,20,17,14
+2022,9DR0,"A Level Drama and Theatre Paper 3",80,60,53,44,35,26,18
+2022,9DR0,"A Level Drama and Theatre Paper 1T",80,66,59,50,41,33,25
+2022,9DR0,"A Level Drama and Theatre Paper 2T",60,51,45,39,34,29,24
+2022,9EC0,"A Level Economics A Paper 1",100,78,70,59,48,37,27
+2022,9EC0,"A Level Economics A Paper 2",100,79,71,60,49,38,28
+2022,9EC0,"A Level Economics A Paper 3",100,77,69,58,47,37,27
+2022,9EB0,"A Level Economics B Paper 1",100,56,49,41,33,25,18
+2022,9EB0,"A Level Economics B Paper 2",100,60,52,43,34,26,18
+2022,9EB0,"A Level Economics B Paper 3",100,60,52,43,34,26,18
+2022,9EN0,"A Level English Language Paper 1",60,35,31,26,21,16,12
+2022,9EN0,"A Level English Language Paper 2",45,28,25,20,16,12,8
+2022,9EN0,"A Level English Language Paper 3",45,31,27,22,17,13,9
+2022,9EN0,"A Level English Language Paper 4",50,46,41,35,29,23,17
+2022,9EL0,"A Level English Language & Literature Paper 1",50,37,33,27,21,15,9
+2022,9EL0,"A Level English Language & Literature Paper 2",50,36,32,26,20,14,9
+2022,9EL0,"A Level English Language & Literature Paper 3",60,51,46,38,30,23,16
+2022,9EL0,"A Level English Language & Literature Paper 3T",60,51,46,38,30,23,16
+2022,9ET0,"A Level English Literature Paper 1",60,41,37,31,25,19,13
+2022,9ET0,"A Level English Literature Paper 2",40,31,28,23,18,13,9
+2022,9ET0,"A Level English Literature Paper 3",60,39,35,29,24,19,14
+2022,9ET0,"A Level English Literature Paper 4",60,57,51,43,35,27,20
+2022,9ET0,"A Level English Literature Paper 4T",60,57,51,43,35,27,20
+2022,9FR0,"A Level French Paper 1",80,63,53,43,33,23,14
+2022,9FR0,"A Level French Paper 2",120,95,80,65,50,35,20
+2022,9FR0,"A Level French Paper 3",72,56,47,38,29,21,13
+2022,9FM0,"A Level Further Mathematics Paper 1",75,61,51,41,31,21,12
+2022,9FM0,"A Level Further Mathematics Paper 2",75,60,50,40,30,21,12
+2022,9FM0,"A Level Further Mathematics Paper 3A",75,65,54,43,32,22,12
+2022,9FM0,"A Level Further Mathematics Paper 3B",75,61,51,41,31,21,11
+2022,9FM0,"A Level Further Mathematics Paper 3C",75,58,48,38,28,19,10
+2022,9FM0,"A Level Further Mathematics Paper 3D",75,55,46,38,30,22,14
+2022,9FM0,"A Level Further Mathematics Paper 4A",75,65,54,43,33,23,13
+2022,9FM0,"A Level Further Mathematics Paper 4B",75,59,49,39,30,21,12
+2022,9FM0,"A Level Further Mathematics Paper 4C",75,58,48,38,29,20,11
+2022,9FM0,"A Level Further Mathematics Paper 4D",75,54,45,36,27,18,10
+2022,9GE0,"A Level Geography Paper 1",105,73,66,55,45,35,25
+2022,9GE0,"A Level Geography Paper 2",105,73,66,56,46,36,26
+2022,9GE0,"A Level Geography Paper 3",70,53,48,41,35,29,23
+2022,9GE0,"A Level Geography Paper 4",70,59,53,45,37,29,21
+2022,9GE0,"A Level Geography Paper 4T",70,59,53,45,37,29,21
+2022,9GN0,"A Level German Paper 1",80,64,54,44,34,24,15
+2022,9GN0,"A Level German Paper 2",120,95,80,65,50,36,22
+2022,9GN0,"A Level German Paper 3",72,57,48,39,30,22,14
+2022,9GK0,"A Level Greek Paper 1",80,51,44,37,30,24,18
+2022,9GK0,"A Level Greek Paper 2",110,73,63,53,43,33,23
+2022,9GK0,"A Level Greek Paper 3",60,39,34,29,24,19,14
+2022,9GU0,"A Level Gujarati Paper 1",80,49,43,36,29,23,17
+2022,9GU0,"A Level Gujarati Paper 2",110,70,61,51,42,33,24
+2022,9GU0,"A Level Gujarati Paper 3",60,37,32,27,22,18,14
+2022,9HI0,"A Level History Paper 1A",60,48,44,36,28,21,14
+2022,9HI0,"A Level History Paper 1B",60,48,44,36,28,21,14
+2022,9HI0,"A Level History Paper 1C",60,48,44,35,27,19,11
+2022,9HI0,"A Level History Paper 1D",60,48,44,36,28,21,14
+2022,9HI0,"A Level History Paper 1E",60,48,44,36,28,20,13
+2022,9HI0,"A Level History Paper 1F",60,48,44,35,27,19,11
+2022,9HI0,"A Level History Paper 1G",60,48,44,36,28,20,12
+2022,9HI0,"A Level History Paper 1H",60,48,44,36,28,20,12
+2022,9HI0,"A Level History Paper 2A",40,32,29,24,19,14,10
+2022,9HI0,"A Level History Paper 2B",40,32,29,24,19,14,10
+2022,9HI0,"A Level History Paper 2C",40,32,29,24,19,14,9
+2022,9HI0,"A Level History Paper 2D",40,33,30,25,20,15,10
+2022,9HI0,"A Level History Paper 2E",40,33,30,25,20,15,10
+2022,9HI0,"A Level History Paper 2F",40,32,29,24,19,14,9
+2022,9HI0,"A Level History Paper 2G",40,32,29,24,19,14,9
+2022,9HI0,"A Level History Paper 2H",40,31,28,23,18,14,10
+2022,9HI0,"A Level History Paper 30",60,48,44,36,28,20,13
+2022,9HI0,"A Level History Paper 31",60,47,43,35,27,20,13
+2022,9HI0,"A Level History Paper 32",60,48,44,36,28,20,13
+2022,9HI0,"A Level History Paper 33",60,46,42,34,26,18,11
+2022,9HI0,"A Level History Paper 34",60,48,44,36,28,20,13
+2022,9HI0,"A Level History Paper 35",60,47,43,35,27,19,12
+2022,9HI0,"A Level History Paper 36",60,48,44,36,28,20,12
+2022,9HI0,"A Level History Paper 37",60,48,44,36,28,20,13
+2022,9HI0,"A Level History Paper 38",60,47,43,35,27,20,13
+2022,9HI0,"A Level History Paper 39",60,48,44,36,28,20,12
+2022,9HI0,"A Level History Paper 4",40,37,34,30,26,22,18
+2022,9HI0,"A Level History Paper 4T",40,37,34,30,26,22,18
+2022,9HT0,"A Level History of Art Paper 1",110,74,62,50,38,27,16
+2022,9HT0,"A Level History of Art Paper 2",110,68,57,46,35,24,13
+2022,9IN0,"A Level Italian Paper 1",80,65,56,46,36,26,16
+2022,9IN0,"A Level Italian Paper 2",120,96,83,68,53,38,24
+2022,9IN0,"A Level Italian Paper 3",72,58,50,41,32,23,14
+2022,9JA0,"A Level Japanese Paper 1",80,61,52,42,33,24,15
+2022,9JA0,"A Level Japanese Paper 2",110,88,75,61,47,34,21
+2022,9JA0,"A Level Japanese Paper 3",60,47,40,33,26,19,12
+2022,9MA0,"A Level Mathematics Paper 1",100,70,53,42,31,20,10
+2022,9MA0,"A Level Mathematics Paper 2",100,73,55,43,31,20,9
+2022,9MA0,"A Level Mathematics Paper 3",100,74,56,44,32,20,9
+2022,9MU0,"A Level Music Paper 1",60,57,50,42,35,28,21
+2022,9MU0,"A Level Music Paper 2",40,32,28,24,20,16,13
+2022,9MU0,"A Level Music Paper 3",100,57,50,43,36,30,24
+2022,9MT0,"A Level Music Technology Paper 1",48,41,37,33,29,25,21
+2022,9MT0,"A Level Music Technology Paper 2",60,48,43,37,32,27,22
+2022,9MT0,"A Level Music Technology Paper 3",75,57,51,44,37,30,23
+2022,9MT0,"A Level Music Technology Paper 4",105,76,68,59,50,41,32
+2022,9PN0,"A Level Persian Paper 1",80,61,53,45,37,29,21
+2022,9PN0,"A Level Persian Paper 2",110,83,72,61,50,39,29
+2022,9PN0,"A Level Persian Paper 3",60,45,39,33,27,21,16
+2022,9PE0,"A Level Physical Education Paper 1",140,83,77,66,55,44,33
+2022,9PE0,"A Level Physical Education Paper 2",100,52,48,41,34,28,22
+2022,9PE0,"A Level Physical Education Paper 3",40,36,33,30,27,24,21
+2022,9PE0,"A Level Physical Education Paper 3T",40,36,33,30,27,24,21
+2022,9PE0,"A Level Physical Education Paper 4",40,36,33,28,23,18,14
+2022,9PH0,"A Level Physics Paper 1",90,66,55,44,34,24,14
+2022,9PH0,"A Level Physics Paper 2",90,62,52,42,32,23,14
+2022,9PH0,"A Level Physics Paper 3",120,80,67,56,45,34,24
+2022,9PL0,"A Level Politics Paper 1",84,58,50,41,32,23,15
+2022,9PL0,"A Level Politics Paper 2",84,60,52,42,33,24,15
+2022,9PL0,"A Level Politics Paper 3A",84,55,48,39,30,22,14
+2022,9PL0,"A Level Politics Paper 3B",84,58,50,41,32,23,14
+2022,9PG0,"A Level Portuguese Paper 1",80,61,54,46,38,31,24
+2022,9PG0,"A Level Portuguese Paper 2",110,85,75,65,55,46,37
+2022,9PG0,"A Level Portuguese Paper 3",60,47,41,35,29,23,18
+2022,9PS0,"A Level Psychology Paper 1",90,45,38,30,23,16,9
+2022,9PS0,"A Level Psychology Paper 2",90,48,40,33,26,19,12
+2022,9PS0,"A Level Psychology Paper 3",80,44,37,30,23,16,9
+2022,9RS0,"A Level Religious Studies Paper 1",80,69,61,49,38,27,16
+2022,9RS0,"A Level Religious Studies Paper 2",80,64,57,47,37,28,19
+2022,9RS0,"A Level Religious Studies Paper 3",80,74,66,53,41,29,17
+2022,9RS0,"A Level Religious Studies Paper 4A",80,69,61,48,35,22,9
+2022,9RS0,"A Level Religious Studies Paper 4B",80,72,64,50,36,23,10
+2022,9RS0,"A Level Religious Studies Paper 4C",80,68,60,47,34,21,9
+2022,9RS0,"A Level Religious Studies Paper 4D",80,75,67,53,39,25,12
+2022,9RS0,"A Level Religious Studies Paper 4E",80,73,65,51,37,23,9
+2022,9RS0,"A Level Religious Studies Paper 4F",80,73,65,51,37,23,9
+2022,9RU0,"A Level Russian Paper 1",80,63,49,39,30,21,12
+2022,9RU0,"A Level Russian Paper 2",120,95,74,58,42,26,11
+2022,9RU0,"A Level Russian Paper 3",72,59,46,35,25,15,5
+2022,9SP0,"A Level Spanish Paper 1",80,61,52,42,32,23,14
+2022,9SP0,"A Level Spanish Paper 2",120,93,79,64,49,34,19
+2022,9SP0,"A Level Spanish Paper 3",72,55,47,38,29,20,12
+2022,9ST0,"A Level Statistics Paper 1",80,61,54,43,33,23,13
+2022,9ST0,"A Level Statistics Paper 2",80,61,54,43,33,23,13
+2022,9ST0,"A Level Statistics Paper 3",80,64,56,45,34,24,14
+2022,9TU0,"A Level Turkish Paper 1",80,71,62,51,40,29,19
+2022,9TU0,"A Level Turkish Paper 2",110,97,85,70,55,40,25
+2022,9TU0,"A Level Turkish Paper 3",60,54,47,38,30,22,14
+2022,9UR0,"A Level Urdu Paper 1",80,71,62,50,38,26,14
+2022,9UR0,"A Level Urdu Paper 2",110,96,84,67,51,35,19
+2022,9UR0,"A Level Urdu Paper 3",60,53,46,37,28,19,11
+2023,9AA0,"A Level Arabic Paper 1",80,55,48,41,34,27,20
+2023,9AA0,"A Level Arabic Paper 2",110,78,68,58,48,38,29
+2023,9AA0,"A Level Arabic Paper 3",60,42,37,32,27,22,17
+2023,9AD0,"A Level Art, Craft And Design Paper 1",90,72,65,52,39,27,15
+2023,9AD0,"A Level Art, Craft And Design Paper 2",72,55,50,40,30,21,12
+2023,9FA0,"A Level Art and Design (Fine Art) Paper 1",90,72,65,52,39,27,15
+2023,9FA0,"A Level Art and Design (Fine Art) Paper 1T",90,72,65,52,39,27,15
+2023,9FA0,"A Level Art and Design (Fine Art) Paper 2",72,55,50,40,30,21,12
+2023,9GC0,"A Level Art and Design (Graphic Communication) Paper 1",90,72,65,52,39,27,15
+2023,9GC0,"A Level Art and Design (Graphic Communication) Paper 1T",90,72,65,52,39,27,15
+2023,9GC0,"A Level Art and Design (Graphic Communication) Paper 2",72,55,50,40,30,21,12
+2023,9PY0,"A Level Art and Design (Photography) Paper 1",90,72,65,52,40,28,16
+2023,9PY0,"A Level Art and Design (Photography) Paper 2",72,56,51,42,33,24,15
+2023,9TD0,"A Level Art and Design (3D Design) Paper 1",90,72,65,52,39,27,15
+2023,9TD0,"A Level Art and Design (3D Design) Paper 2",72,55,50,40,30,21,12
+2023,9TE0,"A Level Art and Design (Textile Design) Paper 1",90,72,65,52,39,27,15
+2023,9TE0,"A Level Art and Design (Textile Design) Paper 2",72,55,50,40,30,21,12
+2023,9BN0,"A Level Biology A (Salters Nuffield) Paper 1",100,79,68,57,46,35,24
+2023,9BN0,"A Level Biology A (Salters Nuffield) Paper 2",100,74,64,54,44,34,25
+2023,9BN0,"A Level Biology A (Salters Nuffield) Paper 3",100,69,60,50,41,32,23
+2023,9BI0,"A Level Biology B Paper 1",90,62,51,42,33,25,17
+2023,9BI0,"A Level Biology B Paper 2",90,67,56,47,38,29,21
+2023,9BI0,"A Level Biology B Paper 3",120,84,70,58,47,36,25
+2023,9BS0,"A Level Business Paper 1",100,72,66,56,46,37,28
+2023,9BS0,"A Level Business Paper 2",100,70,64,54,44,35,26
+2023,9BS0,"A Level Business Paper 3",100,69,63,53,43,34,25
+2023,9CH0,"A Level Chemistry Paper 1",90,73,59,48,37,26,16
+2023,9CH0,"A Level Chemistry Paper 2",90,70,57,46,35,25,15
+2023,9CH0,"A Level Chemistry Paper 3",120,98,79,63,48,33,18
+2023,9CN0,"A Level Chinese Paper 1",80,68,60,51,42,33,25
+2023,9CN0,"A Level Chinese Paper 2",120,101,89,76,63,50,37
+2023,9CN0,"A Level Chinese Paper 3",72,60,53,45,37,29,22
+2023,9DT0,"A Level Design and Technology Paper 1",120,78,70,60,50,40,30
+2023,9DT0,"A Level Design and Technology Paper 2",120,100,90,77,64,51,39
+2023,9DT0,"A Level Design and Technology Paper 2T",120,100,90,77,64,51,39
+2023,9DR0,"A Level Drama and Theatre Paper 1",80,70,64,55,47,39,31
+2023,9DR0,"A Level Drama and Theatre Paper 1T",80,70,64,55,47,39,31
+2023,9DR0,"A Level Drama and Theatre Paper 2",60,52,47,40,34,28,22
+2023,9DR0,"A Level Drama and Theatre Paper 2T",60,52,47,40,34,28,22
+2023,9DR0,"A Level Drama and Theatre Paper 3",80,64,59,49,39,29,20
+2023,9EC0,"A Level Economics A Paper 1",100,82,74,63,53,43,33
+2023,9EC0,"A Level Economics A Paper 2",100,81,72,62,52,42,32
+2023,9EC0,"A Level Economics A Paper 3",100,81,73,63,53,43,34
+2023,9EB0,"A Level Economics B Paper 1",100,65,56,48,40,32,24
+2023,9EB0,"A Level Economics B Paper 2",100,65,56,48,40,32,24
+2023,9EB0,"A Level Economics B Paper 3",100,66,57,48,40,32,24
+2023,9EN0,"A Level English Language Paper 1",60,37,33,27,21,16,11
+2023,9EN0,"A Level English Language Paper 2",45,28,25,20,15,10,6
+2023,9EN0,"A Level English Language Paper 3",45,31,28,23,18,13,8
+2023,9EN0,"A Level English Language Paper 4",50,49,44,38,32,27,22
+2023,9EN0,"A Level English Language Paper 4T",50,49,44,38,32,27,22
+2023,9EL0,"A Level English Language & Literature Paper 1",50,40,36,29,22,15,8
+2023,9EL0,"A Level English Language & Literature Paper 2",50,40,36,29,22,15,8
+2023,9EL0,"A Level English Language & Literature Paper 3",60,55,50,44,38,32,26
+2023,9EL0,"A Level English Language & Literature Paper 3T",60,55,50,44,38,32,26
+2023,9ET0,"A Level English Literature Paper 1",60,43,39,32,26,20,14
+2023,9ET0,"A Level English Literature Paper 2",40,34,31,25,20,15,10
+2023,9ET0,"A Level English Literature Paper 3",60,40,36,30,25,20,15
+2023,9ET0,"A Level English Literature Paper 4",60,56,52,45,38,32,26
+2023,9ET0,"A Level English Literature Paper 4T",60,56,52,45,38,32,26
+2023,9FR0,"A Level French Paper 1",80,68,60,50,40,30,20
+2023,9FR0,"A Level French Paper 2",120,101,89,74,59,44,29
+2023,9FR0,"A Level French Paper 3",72,61,53,44,35,26,17
+2023,9FM0,"A Level Further Mathematics Paper 1",75,51,43,35,28,21,14
+2023,9FM0,"A Level Further Mathematics Paper 2",75,56,46,38,31,24,17
+2023,9FM0,"A Level Further Mathematics Paper 3A",75,64,60,50,40,30,20
+2023,9FM0,"A Level Further Mathematics Paper 3B",75,60,52,43,35,27,19
+2023,9FM0,"A Level Further Mathematics Paper 3C",75,58,48,40,32,24,17
+2023,9FM0,"A Level Further Mathematics Paper 3D",75,60,46,38,30,23,16
+2023,9FM0,"A Level Further Mathematics Paper 4A",75,60,50,41,32,23,15
+2023,9FM0,"A Level Further Mathematics Paper 4B",75,60,53,43,34,25,16
+2023,9FM0,"A Level Further Mathematics Paper 4C",75,67,56,47,38,29,20
+2023,9FM0,"A Level Further Mathematics Paper 4D",75,63,53,43,33,23,14
+2023,9GE0,"A Level Geography Paper 1",105,75,67,57,48,39,30
+2023,9GE0,"A Level Geography Paper 2",105,76,68,58,48,39,30
+2023,9GE0,"A Level Geography Paper 3",70,59,53,46,40,34,28
+2023,9GE0,"A Level Geography Paper 4",70,60,55,48,41,34,27
+2023,9GE0,"A Level Geography Paper 4T",70,60,55,48,41,34,27
+2023,9GN0,"A Level German Paper 1",80,67,54,44,35,26,17
+2023,9GN0,"A Level German Paper 2",120,100,87,71,55,39,24
+2023,9GN0,"A Level German Paper 3",72,60,54,45,36,28,20
+2023,9GK0,"A Level Greek Paper 1",80,68,59,51,44,37,30
+2023,9GK0,"A Level Greek Paper 2",110,94,81,69,57,45,33
+2023,9GK0,"A Level Greek Paper 3",60,50,45,38,31,24,17
+2023,9GU0,"A Level Gujarati Paper 1",80,55,48,41,34,27,20
+2023,9GU0,"A Level Gujarati Paper 2",110,78,68,58,48,38,29
+2023,9GU0,"A Level Gujarati Paper 3",60,42,37,32,27,22,17
+2023,9HI0,"A Level History Paper 1A",60,50,46,38,30,22,15
+2023,9HI0,"A Level History Paper 1B",60,50,46,38,31,24,17
+2023,9HI0,"A Level History Paper 1C",60,49,45,38,31,24,17
+2023,9HI0,"A Level History Paper 1D",60,50,46,38,30,23,16
+2023,9HI0,"A Level History Paper 1E",60,50,46,39,32,26,20
+2023,9HI0,"A Level History Paper 1F",60,50,46,39,32,26,20
+2023,9HI0,"A Level History Paper 1G",60,50,46,39,33,27,21
+2023,9HI0,"A Level History Paper 1H",60,49,45,38,31,25,19
+2023,9HI0,"A Level History Paper 2A",40,37,32,27,22,17,12
+2023,9HI0,"A Level History Paper 2B",40,32,29,24,20,16,12
+2023,9HI0,"A Level History Paper 2C",40,34,31,26,21,16,12
+2023,9HI0,"A Level History Paper 2D",40,34,31,26,21,17,13
+2023,9HI0,"A Level History Paper 2E",40,34,31,26,21,16,12
+2023,9HI0,"A Level History Paper 2F",40,34,31,26,21,17,13
+2023,9HI0,"A Level History Paper 2G",40,33,30,25,20,16,12
+2023,9HI0,"A Level History Paper 2H",40,32,29,24,19,15,11
+2023,9HI0,"A Level History Paper 30",60,49,45,37,29,22,15
+2023,9HI0,"A Level History Paper 31",60,49,45,38,31,24,17
+2023,9HI0,"A Level History Paper 32",60,48,44,36,29,22,15
+2023,9HI0,"A Level History Paper 33",60,49,45,38,31,24,17
+2023,9HI0,"A Level History Paper 34",60,50,46,38,31,24,17
+2023,9HI0,"A Level History Paper 35",60,50,46,38,31,24,17
+2023,9HI0,"A Level History Paper 36",60,49,45,37,30,23,16
+2023,9HI0,"A Level History Paper 37",60,50,46,38,30,22,15
+2023,9HI0,"A Level History Paper 38",60,47,43,36,29,22,15
+2023,9HI0,"A Level History Paper 39",60,49,45,37,29,22,15
+2023,9HI0,"A Level History Paper 4",40,37,34,30,26,22,18
+2023,9HI0,"A Level History Paper 4T",40,37,34,30,26,22,18
+2023,9HT0,"A Level History of Art Paper 1",110,79,67,54,41,28,15
+2023,9HT0,"A Level History of Art Paper 2",110,78,65,52,39,26,13
+2023,9IN0,"A Level Italian Paper 1",80,65,57,48,39,30,22
+2023,9IN0,"A Level Italian Paper 2",120,98,85,71,58,45,32
+2023,9IN0,"A Level Italian Paper 3",72,59,51,43,35,27,19
+2023,9JA0,"A Level Japanese Paper 1",80,63,55,46,38,30,22
+2023,9JA0,"A Level Japanese Paper 2",110,86,75,62,49,37,25
+2023,9JA0,"A Level Japanese Paper 3",60,48,41,35,29,23,18
+2023,9MA0,"A Level Mathematics Paper 1",100,82,67,54,41,28,16
+2023,9MA0,"A Level Mathematics Paper 2",100,80,63,51,39,27,16
+2023,9MA0,"A Level Mathematics Paper 3",100,82,66,53,40,27,15
+2023,9MU0,"A Level Music Paper 1",60,55,50,42,35,28,21
+2023,9MU0,"A Level Music Paper 2",60,51,46,39,33,27,21
+2023,9MU0,"A Level Music Paper 3",100,70,63,56,49,42,35
+2023,9MT0,"A Level Music Technology Paper 1",60,55,50,44,38,32,27
+2023,9MT0,"A Level Music Technology Paper 2",60,50,45,39,33,27,21
+2023,9MT0,"A Level Music Technology Paper 3",75,52,48,41,34,28,22
+2023,9MT0,"A Level Music Technology Paper 4",105,83,75,65,55,45,35
+2023,9PN0,"A Level Persian Paper 1",80,71,62,52,42,33,24
+2023,9PN0,"A Level Persian Paper 2",110,96,84,71,58,45,33
+2023,9PN0,"A Level Persian Paper 3",60,53,46,39,32,25,18
+2023,9PE0,"A Level Physical Education Paper 1",140,86,76,65,54,43,32
+2023,9PE0,"A Level Physical Education Paper 2",100,62,55,48,41,35,29
+2023,9PE0,"A Level Physical Education Paper 3",40,38,34,31,28,25,22
+2023,9PE0,"A Level Physical Education Paper 3T",40,38,34,31,28,25,22
+2023,9PE0,"A Level Physical Education Paper 4",40,38,34,29,24,20,16
+2023,9PE0,"A Level Physical Education Paper 4T",40,38,34,29,24,20,16
+2023,9PH0,"A Level Physics Paper 1",90,69,59,48,38,28,18
+2023,9PH0,"A Level Physics Paper 2",90,62,53,44,35,26,17
+2023,9PH0,"A Level Physics Paper 3",120,92,78,65,52,39,27
+2023,9PL0,"A Level Politics Paper 1",84,59,52,44,36,28,20
+2023,9PL0,"A Level Politics Paper 2",84,60,53,44,36,28,20
+2023,9PL0,"A Level Politics Paper 3A",84,62,54,45,37,29,21
+2023,9PL0,"A Level Politics Paper 3B",84,60,53,44,36,28,20
+2023,9PG0,"A Level Portuguese Paper 1",80,67,59,50,41,32,24
+2023,9PG0,"A Level Portuguese Paper 2",110,91,80,69,58,47,37
+2023,9PG0,"A Level Portuguese Paper 3",60,50,43,36,30,24,18
+2023,9PS0,"A Level Psychology Paper 1",90,52,45,37,30,23,16
+2023,9PS0,"A Level Psychology Paper 2",90,53,46,38,30,22,15
+2023,9PS0,"A Level Psychology Paper 3",80,48,42,34,26,19,12
+2023,9RS0,"A Level Religious Studies Paper 1",80,72,67,56,46,36,26
+2023,9RS0,"A Level Religious Studies Paper 2",80,71,65,55,45,35,25
+2023,9RS0,"A Level Religious Studies Paper 3",80,70,64,54,44,34,24
+2023,9RS0,"A Level Religious Studies Paper 4A",80,68,62,52,42,32,23
+2023,9RS0,"A Level Religious Studies Paper 4B",80,72,66,55,44,33,22
+2023,9RS0,"A Level Religious Studies Paper 4C",80,70,64,54,44,34,24
+2023,9RS0,"A Level Religious Studies Paper 4D",80,75,69,58,47,36,26
+2023,9RS0,"A Level Religious Studies Paper 4E",80,73,67,57,47,37,28
+2023,9RS0,"A Level Religious Studies Paper 4F",80,73,67,56,46,36,26
+2023,9RU0,"A Level Russian Paper 1",80,68,50,43,36,29,22
+2023,9RU0,"A Level Russian Paper 2",120,106,80,67,54,42,30
+2023,9RU0,"A Level Russian Paper 3",72,66,50,42,34,27,20
+2023,9SP0,"A Level Spanish Paper 1",80,68,60,50,40,30,20
+2023,9SP0,"A Level Spanish Paper 2",120,102,90,74,59,44,29
+2023,9SP0,"A Level Spanish Paper 3",72,62,54,45,36,27,18
+2023,9ST0,"A Level Statistics Paper 1",80,71,61,50,40,30,20
+2023,9ST0,"A Level Statistics Paper 2",80,70,61,50,40,30,20
+2023,9ST0,"A Level Statistics Paper 3",80,69,59,49,39,29,19
+2023,9TU0,"A Level Turkish Paper 1",80,73,67,56,45,34,24
+2023,9TU0,"A Level Turkish Paper 2",110,99,90,75,60,46,32
+2023,9TU0,"A Level Turkish Paper 3",60,56,51,42,34,26,18
+2023,9UR0,"A Level Urdu Paper 1",80,72,64,53,42,31,20
+2023,9UR0,"A Level Urdu Paper 2",110,99,88,71,54,38,22
+2023,9UR0,"A Level Urdu Paper 3",60,54,48,40,32,24,16
+2024,9AA0,"A Level Arabic Paper 1",80,52,46,39,32,25,18
+2024,9AA0,"A Level Arabic Paper 2",110,83,72,62,52,42,33
+2024,9AA0,"A Level Arabic Paper 3",60,48,43,38,33,28,23
+2024,9AD0,"A Level Art, Craft And Design Paper 1",90,72,65,52,39,27,15
+2024,9AD0,"A Level Art, Craft And Design Paper 1T",90,72,65,52,39,27,15
+2024,9AD0,"A Level Art, Craft And Design Paper 2",72,55,50,40,30,21,12
+2024,9FA0,"A Level Art and Design (Fine Art) Paper 1",90,72,65,52,39,27,15
+2024,9FA0,"A Level Art and Design (Fine Art) Paper 1T",90,72,65,52,39,27,15
+2024,9FA0,"A Level Art and Design (Fine Art) Paper 2",72,55,50,40,30,21,12
+2024,9GC0,"A Level Art and Design (Graphic Communication) Paper 1",90,72,65,52,39,27,15
+2024,9GC0,"A Level Art and Design (Graphic Communication) Paper 2",72,55,50,40,30,21,12
+2024,9PY0,"A Level Art and Design (Photography) Paper 1",90,73,66,53,40,28,16
+2024,9PY0,"A Level Art and Design (Photography) Paper 2",72,57,52,42,33,24,15
+2024,9TD0,"A Level Art and Design (3D Design) Paper 1",90,72,65,52,39,27,15
+2024,9TD0,"A Level Art and Design (3D Design) Paper 2",72,55,50,40,30,21,12
+2024,9TE0,"A Level Art and Design (Textile Design) Paper 1",90,72,65,52,39,27,15
+2024,9TE0,"A Level Art and Design (Textile Design) Paper 2",72,55,50,40,30,21,12
+2024,9BN0,"A Level Biology A (Salters Nuffield) Paper 1",100,72,62,51,40,30,20
+2024,9BN0,"A Level Biology A (Salters Nuffield) Paper 2",100,69,59,50,41,33,25
+2024,9BN0,"A Level Biology A (Salters Nuffield) Paper 3",100,58,50,42,34,27,20
+2024,9BI0,"A Level Biology B Paper 1",90,55,44,37,30,23,17
+2024,9BI0,"A Level Biology B Paper 2",90,72,61,51,42,33,24
+2024,9BI0,"A Level Biology B Paper 3",120,78,65,55,46,37,28
+2024,9BS0,"A Level Business Paper 1",100,70,64,55,46,37,28
+2024,9BS0,"A Level Business Paper 2",100,68,62,53,44,35,27
+2024,9BS0,"A Level Business Paper 3",100,75,68,59,50,41,32
+2024,9CH0,"A Level Chemistry Paper 1",90,80,67,55,43,31,20
+2024,9CH0,"A Level Chemistry Paper 2",90,73,63,52,41,30,19
+2024,9CH0,"A Level Chemistry Paper 3",120,99,86,70,54,38,22
+2024,9CN0,"A Level Chinese Paper 1",80,66,60,51,42,34,26
+2024,9CN0,"A Level Chinese Paper 2",120,100,90,76,63,50,37
+2024,9CN0,"A Level Chinese Paper 3",72,59,54,46,38,30,22
+2024,9DT0,"A Level Design and Technology Paper 1",120,82,76,65,55,45,35
+2024,9DT0,"A Level Design and Technology Paper 2",120,100,90,77,64,51,39
+2024,9DT0,"A Level Design and Technology Paper 2T",120,100,90,77,64,51,39
+2024,9DR0,"A Level Drama and Theatre Paper 1",80,70,64,55,47,39,31
+2024,9DR0,"A Level Drama and Theatre Paper 1T",80,70,64,55,47,39,31
+2024,9DR0,"A Level Drama and Theatre Paper 2",60,54,48,41,34,28,22
+2024,9DR0,"A Level Drama and Theatre Paper 2T",60,54,48,41,34,28,22
+2024,9DR0,"A Level Drama and Theatre Paper 3",80,66,62,51,41,31,21
+2024,9EC0,"A Level Economics A Paper 1",100,82,74,63,53,43,33
+2024,9EC0,"A Level Economics A Paper 2",100,83,75,64,53,43,33
+2024,9EC0,"A Level Economics A Paper 3",100,84,76,65,54,44,34
+2024,9EB0,"A Level Economics B Paper 1",100,66,57,48,40,32,24
+2024,9EB0,"A Level Economics B Paper 2",100,66,57,48,40,32,24
+2024,9EB0,"A Level Economics B Paper 3",100,66,58,49,41,33,25
+2024,9EN0,"A Level English Language Paper 1",60,35,31,26,22,18,14
+2024,9EN0,"A Level English Language Paper 2",45,27,24,20,16,12,8
+2024,9EN0,"A Level English Language Paper 3",45,32,28,23,18,13,9
+2024,9EN0,"A Level English Language Paper 4",50,50,44,38,32,27,22
+2024,9EN0,"A Level English Language Paper 4T",50,50,44,38,32,27,22
+2024,9EL0,"A Level English Language & Literature Paper 1",50,39,35,29,23,18,13
+2024,9EL0,"A Level English Language & Literature Paper 2",50,39,35,29,23,18,13
+2024,9EL0,"A Level English Language & Literature Paper 3",60,55,49,43,37,31,26
+2024,9EL0,"A Level English Language & Literature Paper 3T",60,55,49,43,37,31,26
+2024,9ET0,"A Level English Literature Paper 1",60,43,39,33,27,21,15
+2024,9ET0,"A Level English Literature Paper 2",40,34,31,26,21,16,11
+2024,9ET0,"A Level English Literature Paper 3",60,39,36,31,26,21,16
+2024,9ET0,"A Level English Literature Paper 4",60,58,53,46,39,33,27
+2024,9ET0,"A Level English Literature Paper 4T",60,58,53,46,39,33,27
+2024,9FR0,"A Level French Paper 1",80,66,58,49,41,33,25
+2024,9FR0,"A Level French Paper 2",120,100,87,74,62,50,38
+2024,9FR0,"A Level French Paper 3",72,61,53,45,37,29,22
+2024,9FM0,"A Level Further Mathematics Paper 1",75,67,60,51,42,33,25
+2024,9FM0,"A Level Further Mathematics Paper 2",75,63,56,48,40,32,25
+2024,9FM0,"A Level Further Mathematics Paper 3A",75,72,69,55,41,27,14
+2024,9FM0,"A Level Further Mathematics Paper 3B",75,58,49,41,33,26,19
+2024,9FM0,"A Level Further Mathematics Paper 3C",75,68,61,51,41,31,22
+2024,9FM0,"A Level Further Mathematics Paper 3D",75,51,41,33,25,17,10
+2024,9FM0,"A Level Further Mathematics Paper 4A",75,67,55,45,35,25,15
+2024,9FM0,"A Level Further Mathematics Paper 4B",75,53,47,39,31,23,15
+2024,9FM0,"A Level Further Mathematics Paper 4C",75,56,48,40,32,24,17
+2024,9FM0,"A Level Further Mathematics Paper 4D",75,62,57,46,36,26,16
+2024,9GE0,"A Level Geography Paper 1",105,73,65,56,47,38,30
+2024,9GE0,"A Level Geography Paper 2",105,77,69,59,49,40,31
+2024,9GE0,"A Level Geography Paper 3",70,57,51,45,39,33,28
+2024,9GE0,"A Level Geography Paper 4",70,60,55,48,41,34,27
+2024,9GE0,"A Level Geography Paper 4T",70,60,55,48,41,34,27
+2024,9GN0,"A Level German Paper 1",80,67,54,44,35,26,17
+2024,9GN0,"A Level German Paper 2",120,99,86,70,54,38,23
+2024,9GN0,"A Level German Paper 3",72,60,54,45,36,28,20
+2024,9GK0,"A Level Greek Paper 1",80,69,60,52,44,37,30
+2024,9GK0,"A Level Greek Paper 2",110,92,81,69,57,45,33
+2024,9GK0,"A Level Greek Paper 3",60,51,45,38,31,24,17
+2024,9GU0,"A Level Gujarati Paper 1",80,55,48,41,34,27,20
+2024,9GU0,"A Level Gujarati Paper 2",110,78,68,58,48,38,29
+2024,9GU0,"A Level Gujarati Paper 3",60,42,37,32,27,22,17
+2024,9HI0,"A Level History Paper 1A",60,51,46,39,32,25,18
+2024,9HI0,"A Level History Paper 1B",60,51,46,39,32,25,19
+2024,9HI0,"A Level History Paper 1C",60,49,45,38,31,24,18
+2024,9HI0,"A Level History Paper 1D",60,51,46,39,32,25,18
+2024,9HI0,"A Level History Paper 1E",60,52,47,40,33,26,19
+2024,9HI0,"A Level History Paper 1F",60,49,45,38,32,26,20
+2024,9HI0,"A Level History Paper 1G",60,51,46,39,32,25,19
+2024,9HI0,"A Level History Paper 1H",60,51,46,39,32,25,19
+2024,9HI0,"A Level History Paper 2A",40,36,33,28,23,18,13
+2024,9HI0,"A Level History Paper 2B",40,35,32,27,22,17,13
+2024,9HI0,"A Level History Paper 2C",40,35,32,27,22,17,13
+2024,9HI0,"A Level History Paper 2D",40,36,33,28,23,18,14
+2024,9HI0,"A Level History Paper 2E",40,36,33,28,23,18,14
+2024,9HI0,"A Level History Paper 2F",40,34,31,26,22,18,14
+2024,9HI0,"A Level History Paper 2G",40,35,32,27,22,17,13
+2024,9HI0,"A Level History Paper 2H",40,34,31,26,21,17,13
+2024,9HI0,"A Level History Paper 30",60,52,47,39,31,24,17
+2024,9HI0,"A Level History Paper 31",60,53,48,40,32,25,18
+2024,9HI0,"A Level History Paper 32",60,51,46,38,31,24,17
+2024,9HI0,"A Level History Paper 33",60,49,45,38,31,24,18
+2024,9HI0,"A Level History Paper 34",60,52,47,39,32,25,18
+2024,9HI0,"A Level History Paper 35",60,49,45,38,31,25,19
+2024,9HI0,"A Level History Paper 36",60,51,46,38,31,24,17
+2024,9HI0,"A Level History Paper 37",60,52,47,39,31,24,17
+2024,9HI0,"A Level History Paper 38",60,51,46,38,31,24,17
+2024,9HI0,"A Level History Paper 39",60,51,46,38,31,24,17
+2024,9HI0,"A Level History Paper 4",40,37,34,30,26,22,18
+2024,9HI0,"A Level History Paper 4T",40,37,34,30,26,22,18
+2024,9HT0,"A Level History of Art Paper 1",110,79,67,54,42,30,18
+2024,9HT0,"A Level History of Art Paper 2",110,83,70,57,44,31,18
+2024,9IN0,"A Level Italian Paper 1",80,67,58,49,40,32,24
+2024,9IN0,"A Level Italian Paper 2",120,99,86,72,58,45,32
+2024,9IN0,"A Level Italian Paper 3",72,59,51,43,35,27,19
+2024,9JA0,"A Level Japanese Paper 1",80,63,55,46,38,30,22
+2024,9JA0,"A Level Japanese Paper 2",110,86,75,62,49,37,25
+2024,9JA0,"A Level Japanese Paper 3",60,48,41,35,29,23,18
+2024,9MA0,"A Level Mathematics Paper 1",100,81,66,53,40,28,16
+2024,9MA0,"A Level Mathematics Paper 2",100,81,65,53,42,31,20
+2024,9MA0,"A Level Mathematics Paper 3",100,89,74,60,46,33,20
+2024,9MU0,"A Level Music Paper 1",60,55,50,42,35,28,21
+2024,9MU0,"A Level Music Paper 1T",60,55,50,42,35,28,21
+2024,9MU0,"A Level Music Paper 2",60,51,46,39,33,27,21
+2024,9MU0,"A Level Music Paper 2T",60,51,46,39,33,27,21
+2024,9MU0,"A Level Music Paper 3",100,70,65,58,51,44,37
+2024,9MT0,"A Level Music Technology Paper 1",60,55,50,44,38,32,27
+2024,9MT0,"A Level Music Technology Paper 1T",60,55,50,44,38,32,27
+2024,9MT0,"A Level Music Technology Paper 2",60,50,45,39,33,27,21
+2024,9MT0,"A Level Music Technology Paper 2T",60,50,45,39,33,27,21
+2024,9MT0,"A Level Music Technology Paper 3",75,60,56,49,42,35,29
+2024,9MT0,"A Level Music Technology Paper 4",105,77,72,62,52,42,32
+2024,9PN0,"A Level Persian Paper 1",80,72,62,52,42,33,24
+2024,9PN0,"A Level Persian Paper 2",110,94,82,69,57,45,33
+2024,9PN0,"A Level Persian Paper 3",60,53,46,39,32,25,18
+2024,9PE0,"A Level Physical Education Paper 1",140,85,75,63,51,39,28
+2024,9PE0,"A Level Physical Education Paper 2",100,65,57,49,41,33,26
+2024,9PE0,"A Level Physical Education Paper 3",40,38,34,31,28,25,22
+2024,9PE0,"A Level Physical Education Paper 3T",40,38,34,31,28,25,22
+2024,9PE0,"A Level Physical Education Paper 4",40,38,34,29,24,20,16
+2024,9PE0,"A Level Physical Education Paper 4T",40,38,34,29,24,20,16
+2024,9PH0,"A Level Physics Paper 1",90,70,60,49,38,28,18
+2024,9PH0,"A Level Physics Paper 2",90,68,59,49,39,29,20
+2024,9PH0,"A Level Physics Paper 3",120,93,80,67,54,42,30
+2024,9PL0,"A Level Politics Paper 1",84,59,52,44,36,28,21
+2024,9PL0,"A Level Politics Paper 2",84,60,53,45,37,29,21
+2024,9PL0,"A Level Politics Paper 3A",84,58,51,42,34,26,18
+2024,9PL0,"A Level Politics Paper 3B",84,61,54,46,38,30,22
+2024,9PG0,"A Level Portuguese Paper 1",80,67,59,50,41,32,24
+2024,9PG0,"A Level Portuguese Paper 2",110,89,78,67,57,47,37
+2024,9PG0,"A Level Portuguese Paper 3",60,54,47,40,34,28,22
+2024,9PS0,"A Level Psychology Paper 1",90,51,45,38,31,24,17
+2024,9PS0,"A Level Psychology Paper 2",90,55,48,40,32,24,17
+2024,9PS0,"A Level Psychology Paper 3",80,47,41,33,25,18,11
+2024,9RS0,"A Level Religious Studies Paper 1",80,74,67,55,43,31,20
+2024,9RS0,"A Level Religious Studies Paper 2",80,73,66,55,45,35,25
+2024,9RS0,"A Level Religious Studies Paper 3",80,71,64,53,42,31,21
+2024,9RS0,"A Level Religious Studies Paper 4A",80,72,65,54,44,34,24
+2024,9RS0,"A Level Religious Studies Paper 4B",80,72,65,54,43,33,23
+2024,9RS0,"A Level Religious Studies Paper 4C",80,72,65,54,43,33,23
+2024,9RS0,"A Level Religious Studies Paper 4D",80,74,67,56,45,34,23
+2024,9RS0,"A Level Religious Studies Paper 4E",80,74,67,56,45,34,23
+2024,9RS0,"A Level Religious Studies Paper 4F",80,74,67,56,45,34,23
+2024,9RU0,"A Level Russian Paper 1",80,55,48,41,34,27,20
+2024,9RU0,"A Level Russian Paper 2",120,87,74,61,48,36,24
+2024,9RU0,"A Level Russian Paper 3",72,54,47,39,31,24,17
+2024,9SP0,"A Level Spanish Paper 1",80,66,59,50,41,33,25
+2024,9SP0,"A Level Spanish Paper 2",120,98,86,73,60,47,34
+2024,9SP0,"A Level Spanish Paper 3",72,59,53,45,37,29,21
+2024,9ST0,"A Level Statistics Paper 1",80,69,58,47,37,27,17
+2024,9ST0,"A Level Statistics Paper 2",80,69,59,48,38,28,18
+2024,9ST0,"A Level Statistics Paper 3",80,69,59,49,39,29,19
+2024,9TU0,"A Level Turkish Paper 1",80,73,67,56,45,34,24
+2024,9TU0,"A Level Turkish Paper 2",110,99,90,75,60,46,32
+2024,9TU0,"A Level Turkish Paper 3",60,56,51,42,34,26,18
+2024,9UR0,"A Level Urdu Paper 1",80,72,64,53,42,31,20
+2024,9UR0,"A Level Urdu Paper 2",110,99,88,71,54,38,22
+2024,9UR0,"A Level Urdu Paper 3",60,54,48,40,32,24,16
+2025,9AA0,"A Level Arabic Paper 1",80,53,46,39,32,25,18
+2025,9AA0,"A Level Arabic Paper 2",110,80,70,60,50,40,30
+2025,9AA0,"A Level Arabic Paper 3",60,47,42,37,32,27,22
+2025,9AD0,"A Level Art and Design (Art, Craft and Design) Paper 1",90,72,65,52,39,27,15
+2025,9AD0,"A Level Art and Design (Art, Craft and Design) Paper 1T",90,72,65,52,39,27,15
+2025,9AD0,"A Level Art and Design (Art, Craft and Design) Paper 2",72,55,50,40,30,21,12
+2025,9FA0,"A Level Art and Design (Fine Art) Paper 1",90,72,65,52,39,27,15
+2025,9FA0,"A Level Art and Design (Fine Art) Paper 2",72,55,50,40,30,21,12
+2025,9GC0,"A Level Art and Design (Graphic Communication) Paper 1",90,72,65,52,39,27,15
+2025,9GC0,"A Level Art and Design (Graphic Communication) Paper 2",72,55,50,40,30,21,12
+2025,9PY0,"A Level Art and Design (Photography) Paper 1",90,73,66,53,40,28,16
+2025,9PY0,"A Level Art and Design (Photography) Paper 2",72,57,52,42,33,24,15
+2025,9TD0,"A Level Art and Design (3D Design) Paper 1",90,72,65,52,39,27,15
+2025,9TD0,"A Level Art and Design (3D Design) Paper 2",72,55,50,40,30,21,12
+2025,9TE0,"A Level Art and Design (Textile Design) Paper 1",90,72,65,52,39,27,15
+2025,9TE0,"A Level Art and Design (Textile Design) Paper 2",72,55,50,40,30,21,12
+2025,9BN0,"A Level Biology A (Salters Nuffield) Paper 1",100,79,70,59,48,38,28
+2025,9BN0,"A Level Biology A (Salters Nuffield) Paper 2",100,72,64,56,48,40,32
+2025,9BN0,"A Level Biology A (Salters Nuffield) Paper 3",100,74,66,57,48,40,32
+2025,9BI0,"A Level Biology B Paper 1",90,59,51,43,35,27,20
+2025,9BI0,"A Level Biology B Paper 2",90,73,63,54,45,36,28
+2025,9BI0,"A Level Biology B Paper 3",120,85,74,63,52,41,30
+2025,9BS0,"A Level Business Paper 1",100,76,70,61,52,43,34
+2025,9BS0,"A Level Business Paper 2",100,75,69,59,50,41,32
+2025,9BS0,"A Level Business Paper 3",100,73,68,58,49,40,31
+2025,9CH0,"A Level Chemistry Paper 1",90,75,66,54,42,31,20
+2025,9CH0,"A Level Chemistry Paper 2",90,70,59,49,39,29,19
+2025,9CH0,"A Level Chemistry Paper 3",120,101,82,66,51,36,21
+2025,9CN0,"A Level Chinese Paper 1",80,66,60,51,42,34,26
+2025,9CN0,"A Level Chinese Paper 2",120,100,90,76,63,50,37
+2025,9CN0,"A Level Chinese Paper 3",72,59,54,46,38,30,22
+2025,9DT0,"A Level Design and Technology Paper 1",120,87,80,69,58,47,37
+2025,9DT0,"A Level Design and Technology Paper 2",120,100,90,77,64,51,39
+2025,9DT0,"A Level Design and Technology Paper 2T",120,100,90,77,64,51,39
+2025,9DR0,"A Level Drama and Theatre Paper 1",80,70,64,55,47,39,31
+2025,9DR0,"A Level Drama and Theatre Paper 1T",80,70,64,55,47,39,31
+2025,9DR0,"A Level Drama and Theatre Paper 2",60,54,48,41,34,28,22
+2025,9DR0,"A Level Drama and Theatre Paper 2T",60,54,48,41,34,28,22
+2025,9DR0,"A Level Drama and Theatre Paper 3",80,72,66,54,43,32,21
+2025,9EC0,"A Level Economics A Paper 1",100,87,79,68,58,48,38
+2025,9EC0,"A Level Economics A Paper 2",100,85,78,67,57,47,37
+2025,9EC0,"A Level Economics A Paper 3",100,85,77,66,56,46,36
+2025,9EB0,"A Level Economics B Paper 1",100,68,58,50,42,34,26
+2025,9EB0,"A Level Economics B Paper 2",100,68,59,51,43,35,28
+2025,9EB0,"A Level Economics B Paper 3",100,64,57,50,43,36,30
+2025,9EN0,"A Level English Language Paper 1",60,33,29,24,19,15,11
+2025,9EN0,"A Level English Language Paper 2",45,28,24,20,16,12,8
+2025,9EN0,"A Level English Language Paper 3",45,32,28,23,18,13,9
+2025,9EN0,"A Level English Language Paper 4",50,50,44,38,32,27,22
+2025,9EN0,"A Level English Language Paper 4T",50,50,44,38,32,27,22
+2025,9EL0,"A Level English Language & Literature Paper 1",50,38,34,28,23,18,13
+2025,9EL0,"A Level English Language & Literature Paper 2",50,37,33,28,23,18,13
+2025,9EL0,"A Level English Language & Literature Paper 3",60,56,50,44,38,32,26
+2025,9EL0,"A Level English Language & Literature Paper 3T",60,56,50,44,38,32,26
+2025,9ET0,"A Level English Literature Paper 1",60,42,39,33,27,22,17
+2025,9ET0,"A Level English Literature Paper 2",40,34,31,26,21,17,13
+2025,9ET0,"A Level English Literature Paper 3",60,38,35,30,25,21,17
+2025,9ET0,"A Level English Literature Paper 4",60,58,52,45,39,33,27
+2025,9ET0,"A Level English Literature Paper 4T",60,58,52,45,39,33,27
+2025,9FR0,"A Level French Paper 1",80,67,59,49,39,29,20
+2025,9FR0,"A Level French Paper 2",120,104,89,75,61,47,33
+2025,9FR0,"A Level French Paper 3",72,61,53,44,35,26,18
+2025,9FM0,"A Level Further Mathematics Paper 1",75,62,53,45,37,29,21
+2025,9FM0,"A Level Further Mathematics Paper 2",75,70,61,52,43,34,26
+2025,9FM0,"A Level Further Mathematics Paper 3A",75,62,57,47,38,29,20
+2025,9FM0,"A Level Further Mathematics Paper 3B",75,58,51,44,37,31,25
+2025,9FM0,"A Level Further Mathematics Paper 3C",75,72,68,57,46,35,25
+2025,9FM0,"A Level Further Mathematics Paper 3D",75,52,46,38,30,22,14
+2025,9FM0,"A Level Further Mathematics Paper 4A",75,68,62,50,39,28,17
+2025,9FM0,"A Level Further Mathematics Paper 4B",75,54,50,43,36,29,23
+2025,9FM0,"A Level Further Mathematics Paper 4C",75,58,51,43,35,27,19
+2025,9FM0,"A Level Further Mathematics Paper 4D",75,57,52,42,33,24,15
+2025,9GE0,"A Level Geography Paper 1",105,76,69,60,51,43,35
+2025,9GE0,"A Level Geography Paper 2",105,75,68,59,50,41,33
+2025,9GE0,"A Level Geography Paper 3",70,58,53,47,41,36,31
+2025,9GE0,"A Level Geography Paper 4",70,61,55,48,41,34,27
+2025,9GE0,"A Level Geography Paper 4T",70,61,55,48,41,34,27
+2025,9GN0,"A Level German Paper 1",80,67,54,44,35,26,17
+2025,9GN0,"A Level German Paper 2",120,99,86,70,54,38,23
+2025,9GN0,"A Level German Paper 3",72,60,54,45,36,28,20
+2025,9GK0,"A Level Greek Paper 1",80,70,61,53,45,37,30
+2025,9GK0,"A Level Greek Paper 2",110,94,82,69,57,45,33
+2025,9GK0,"A Level Greek Paper 3",60,50,44,37,30,23,17
+2025,9GU0,"A Level Gujarati Paper 1",80,55,48,41,34,27,20
+2025,9GU0,"A Level Gujarati Paper 2",110,78,68,58,48,38,29
+2025,9GU0,"A Level Gujarati Paper 3",60,42,37,32,27,22,17
+2025,9HI0,"A Level History Paper 1A",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1B",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1C",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1D",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1E",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1F",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1G",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 1H",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 2A",40,37,33,28,23,18,14
+2025,9HI0,"A Level History Paper 2B",40,36,32,27,22,18,14
+2025,9HI0,"A Level History Paper 2C",40,36,32,27,22,18,14
+2025,9HI0,"A Level History Paper 2D",40,37,33,28,23,19,15
+2025,9HI0,"A Level History Paper 2E",40,36,32,27,23,19,15
+2025,9HI0,"A Level History Paper 2F",40,36,32,27,23,19,15
+2025,9HI0,"A Level History Paper 2G",40,37,33,28,23,18,14
+2025,9HI0,"A Level History Paper 2H",40,36,32,27,22,18,14
+2025,9HI0,"A Level History Paper 30",60,53,47,40,33,26,19
+2025,9HI0,"A Level History Paper 31",60,54,48,41,34,27,20
+2025,9HI0,"A Level History Paper 32",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 33",60,53,47,40,33,26,20
+2025,9HI0,"A Level History Paper 34",60,53,47,40,33,26,19
+2025,9HI0,"A Level History Paper 35",60,51,45,38,32,26,20
+2025,9HI0,"A Level History Paper 36",60,54,48,40,33,26,19
+2025,9HI0,"A Level History Paper 37",60,54,48,41,34,27,20
+2025,9HI0,"A Level History Paper 38",60,52,46,39,32,25,19
+2025,9HI0,"A Level History Paper 39",60,53,47,40,33,26,19
+2025,9HI0,"A Level History Paper 4",40,38,34,30,26,22,18
+2025,9HI0,"A Level History Paper 4T",40,38,34,30,26,22,18
+2025,9HT0,"A Level History of Art Paper 1",110,81,66,53,41,29,17
+2025,9HT0,"A Level History of Art Paper 2",110,81,66,53,40,27,14
+2025,9IN0,"A Level Italian Paper 1",80,67,58,49,40,32,24
+2025,9IN0,"A Level Italian Paper 2",120,99,86,72,58,45,32
+2025,9IN0,"A Level Italian Paper 3",72,59,51,43,35,27,19
+2025,9JA0,"A Level Japanese Paper 1",80,63,55,46,38,30,22
+2025,9JA0,"A Level Japanese Paper 2",110,86,75,62,49,37,25
+2025,9JA0,"A Level Japanese Paper 3",60,48,41,35,29,23,18
+2025,9MA0,"A Level Mathematics Paper 1",100,88,74,61,48,36,24
+2025,9MA0,"A Level Mathematics Paper 2",100,83,67,55,44,33,22
+2025,9MA0,"A Level Mathematics Paper 3",100,87,73,61,49,37,25
+2025,9MU0,"A Level Music Paper 1",60,55,50,42,35,28,21
+2025,9MU0,"A Level Music Paper 1T",60,55,50,42,35,28,21
+2025,9MU0,"A Level Music Paper 2",60,51,46,39,33,27,21
+2025,9MU0,"A Level Music Paper 2T",60,51,46,39,33,27,21
+2025,9MU0,"A Level Music Paper 3",100,75,67,60,53,46,39
+2025,9MT0,"A Level Music Technology Paper 1",60,55,50,44,38,32,27
+2025,9MT0,"A Level Music Technology Paper 1T",60,55,50,44,38,32,27
+2025,9MT0,"A Level Music Technology Paper 2",60,50,45,39,33,27,21
+2025,9MT0,"A Level Music Technology Paper 2T",60,50,45,39,33,27,21
+2025,9MT0,"A Level Music Technology Paper 3",75,59,53,45,37,30,23
+2025,9MT0,"A Level Music Technology Paper 4",105,80,74,64,54,44,34
+2025,9PN0,"A Level Persian Paper 1",80,72,62,52,42,33,24
+2025,9PN0,"A Level Persian Paper 2",110,94,82,69,57,45,33
+2025,9PN0,"A Level Persian Paper 3",60,53,46,39,32,25,18
+2025,9PE0,"A Level Physical Education Paper 1",140,83,77,65,53,41,29
+2025,9PE0,"A Level Physical Education Paper 2",100,65,57,49,41,34,27
+2025,9PE0,"A Level Physical Education Paper 3",40,38,34,31,28,25,22
+2025,9PE0,"A Level Physical Education Paper 3T",40,38,34,31,28,25,22
+2025,9PE0,"A Level Physical Education Paper 4",40,38,34,29,24,20,16
+2025,9PE0,"A Level Physical Education Paper 4T",40,38,34,29,24,20,16
+2025,9PH0,"A Level Physics Paper 1",90,68,60,51,42,33,25
+2025,9PH0,"A Level Physics Paper 2",90,68,59,50,41,33,25
+2025,9PH0,"A Level Physics Paper 3",120,91,80,67,54,42,30
+2025,9PL0,"A Level Politics Paper 1",84,56,50,43,36,29,22
+2025,9PL0,"A Level Politics Paper 2",84,61,54,46,38,30,23
+2025,9PL0,"A Level Politics Paper 3A",84,60,53,45,37,29,21
+2025,9PL0,"A Level Politics Paper 3B",84,60,54,46,38,30,23
+2025,9PG0,"A Level Portuguese Paper 1",80,69,61,52,43,34,26
+2025,9PG0,"A Level Portuguese Paper 2",110,93,82,71,60,50,40
+2025,9PG0,"A Level Portuguese Paper 3",60,56,49,42,36,30,24
+2025,9PS0,"A Level Psychology Paper 1",90,54,47,39,32,25,18
+2025,9PS0,"A Level Psychology Paper 2",90,52,45,37,29,21,14
+2025,9PS0,"A Level Psychology Paper 3",80,49,42,34,26,19,12
+2025,9RS0,"A Level Religious Studies Paper 1",80,71,62,51,40,29,19
+2025,9RS0,"A Level Religious Studies Paper 2",80,71,63,52,42,32,22
+2025,9RS0,"A Level Religious Studies Paper 3",80,71,62,51,40,30,20
+2025,9RS0,"A Level Religious Studies Paper 4A",80,72,63,52,42,32,22
+2025,9RS0,"A Level Religious Studies Paper 4B",80,71,62,51,41,31,21
+2025,9RS0,"A Level Religious Studies Paper 4C",80,72,64,53,42,32,22
+2025,9RS0,"A Level Religious Studies Paper 4D",80,74,67,55,44,33,22
+2025,9RS0,"A Level Religious Studies Paper 4E",80,73,66,55,44,33,22
+2025,9RS0,"A Level Religious Studies Paper 4F",80,73,66,55,44,33,22
+2025,9RU0,"A Level Russian Paper 1",80,54,47,40,33,26,20
+2025,9RU0,"A Level Russian Paper 2",120,87,74,61,48,36,24
+2025,9RU0,"A Level Russian Paper 3",72,54,47,39,31,24,17
+2025,9SP0,"A Level Spanish Paper 1",80,70,62,53,45,37,29
+2025,9SP0,"A Level Spanish Paper 2",120,99,87,74,61,48,35
+2025,9SP0,"A Level Spanish Paper 3",72,60,53,45,37,29,21
+2025,9ST0,"A Level Statistics Paper 1",80,62,53,44,35,26,18
+2025,9ST0,"A Level Statistics Paper 2",80,62,55,46,37,28,19
+2025,9ST0,"A Level Statistics Paper 3",80,64,56,47,38,29,21
+2025,9TU0,"A Level Turkish Paper 1",80,74,67,56,45,34,24
+2025,9TU0,"A Level Turkish Paper 2",110,97,88,73,59,45,31
+2025,9TU0,"A Level Turkish Paper 3",60,56,51,42,34,26,18
+2025,9UR0,"A Level Urdu Paper 1",80,69,61,50,39,28,18
+2025,9UR0,"A Level Urdu Paper 2",110,100,88,71,54,38,22
+2025,9UR0,"A Level Urdu Paper 3",60,55,48,40,32,24,16
