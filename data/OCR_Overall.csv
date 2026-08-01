@@ -1,0 +1,563 @@
+2017,""A Level Art and Design"",200,183,171,147,123,99,76
+2017,""A Level Biology A"",270,179,150,128,106,84,63
+2017,""A Level Biology B (Advancing Biology)"",270,178,154,134,114,94,74
+2017,""A Level Business"",240,187,167,142,117,92,68
+2017,""A Level Chemistry A"",270,232,198,164,130,96,63
+2017,""A Level Chemistry B (Salters)"",270,217,182,152,123,94,65
+2017,""A Level Computer Science"",350,284,246,208,171,134,97
+2017,""A Level Economics"",240,191,161,135,110,85,60
+2017,""A Level English Language"",200,177,154,133,112,91,70
+2017,""A Level English Language & Literature"",200,173,157,135,113,91,69
+2017,""A Level English Literature *Components 01 and 02 are weighted to give marks out of 80"",200,186,173,149,125,102,79
+2017,""A Level History (H505 - British period study and enquiry)"",200,164,144,122,100,78,56
+2017,""A Level Physics A"",270,207,178,151,124,97,70
+2017,""A Level Physics B (Advancing Physics)"",270,204,175,151,127,103,80
+2017,""A Level Psychology"",300,234,212,184,157,130,103
+2017,""A Level Sociology"",300,255,231,198,166,134,102
+2018,""A Level Art and Design"",200,185,174,150,126,102,78
+2018,""A Level Biology A"",270,187,159,135,111,87,63
+2018,""A Level Biology B (Advancing Biology)"",270,170,148,126,105,84,63
+2018,""A Level Business"",240,188,168,144,120,97,74
+2018,""A Level Chemistry A"",270,237,205,169,133,97,62
+2018,""A Level Chemistry B (Salters)"",270,209,172,142,113,84,55
+2018,""A Level Classical Greek"",300,267,224,194,165,136,107
+2018,""A Level Computer Science"",350,276,238,202,167,132,97
+2018,""A Level Drama and Theatre"",300,257,239,209,180,151,122
+2018,""A Level Economics"",240,193,164,137,110,83,56
+2018,""A Level English Language"",200,174,154,132,110,89,68
+2018,""A Level English Language & Literature (EMC)"",200,172,158,136,114,92,71
+2018,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",200,185,174,152,130,109,88
+2018,""A Level Geography"",300,234,205,176,147,118,90
+2018,""A Level History A (H505) H505 Not including Y109, Y110 or Y312"",200,164,144,123,102,81,60
+2018,""A Level History A (H505) H505 Including Y109"",200,163,143,122,101,80,60
+2018,""A Level History A (H505) H505 Including Y110"",200,164,144,122,100,79,58
+2018,""A Level History A (H505) H505 Including Y312"",200,163,142,121,100,79,58
+2018,""A Level History A (H505) H505 Including Y109 and Y312"",200,162,141,120,99,78,58
+2018,""A Level History A (H505) H505 Including Y110 and Y312"",200,163,142,120,98,77,56
+2018,""A Level Latin"",300,247,208,178,148,118,89
+2018,""A Level Mathematics A"",300,240,197,162,128,94,60
+2018,""A Level Mathematics B (MEI)"",275,218,197,176,155,135,115
+2018,""A Level Music"",300,251,223,196,169,142,115
+2018,""A Level Physical Education *To create the overall boundaries, component 04 is weighted to give marks out of 90"",300,221,199,174,149,124,100
+2018,""A Level Physics A"",270,219,188,158,128,98,68
+2018,""A Level Physics B (Advancing Physics)"",270,206,173,145,118,91,64
+2018,""A Level Psychology"",300,226,204,177,151,125,99
+2018,""A Level Religious Studies"",360,297,249,204,160,116,72
+2018,""A Level Sociology"",300,252,228,194,160,126,92
+2019,""A Level Ancient History All options"",196,169,143,117,91,66,41
+2019,""A Level Art and Design"",200,187,177,152,128,104,80
+2019,""A Level Biology A"",270,185,158,136,114,92,70
+2019,""A Level Biology B (Advancing Biology)"",270,178,152,130,108,86,64
+2019,""A Level Business"",240,191,169,145,121,97,74
+2019,""A Level Chemistry A"",270,230,196,161,126,91,56
+2019,""A Level Chemistry B (Salters)"",270,207,173,145,117,89,61
+2019,""A Level Classical Civilisation Option A: 11+21+31"",250,214,187,158,129,100,71
+2019,""A Level Classical Civilisation Option B: 11+21+32"",250,213,184,156,128,100,73
+2019,""A Level Classical Civilisation Option C: 11+21+33"",250,217,189,160,131,102,73
+2019,""A Level Classical Civilisation Option D: 11+21+34"",250,212,185,156,127,98,69
+2019,""A Level Classical Civilisation Option E: 11+22+31"",250,215,189,161,133,106,79
+2019,""A Level Classical Civilisation Option F: 11+22+32"",250,214,186,159,133,107,81
+2019,""A Level Classical Civilisation Option G: 11+22+33"",250,218,191,163,135,108,81
+2019,""A Level Classical Civilisation Option H: 11+22+34"",250,213,187,159,131,104,77
+2019,""A Level Classical Civilisation Option J: 11+23+31"",250,212,184,157,130,103,76
+2019,""A Level Classical Civilisation Option K: 11+23+32"",250,211,181,155,129,103,78
+2019,""A Level Classical Civilisation Option L: 11+23+33"",250,215,186,159,132,105,78
+2019,""A Level Classical Civilisation Option M: 11+23+34"",250,210,182,155,128,101,74
+2019,""A Level Classical Civilisation Option N: 11+24+31"",250,208,180,151,122,94,66
+2019,""A Level Classical Civilisation Option O: 11+24+32"",250,207,177,149,122,95,68
+2019,""A Level Classical Civilisation Option P: 11+24+33"",250,211,182,153,124,96,68
+2019,""A Level Classical Civilisation Option Q: 11+24+34"",250,206,178,149,120,92,64
+2019,""A Level Classical Greek"",300,251,211,182,153,125,97
+2019,""A Level Computer Science All options"",350,285,250,212,174,137,100
+2019,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,247,223,193,164,135,106
+2019,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,247,223,193,164,135,106
+2019,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,247,223,193,164,135,106
+2019,""A Level Drama and Theatre All options"",300,261,240,211,183,155,127
+2019,""A Level Economics"",240,196,166,139,112,85,59
+2019,""A Level English Language"",200,180,160,137,114,92,70
+2019,""A Level English Language & Literature (EMC)"",200,164,153,132,112,92,72
+2019,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",200,188,177,155,133,111,89
+2019,""A Level Film Studies All options"",300,254,228,193,158,123,88
+2019,""A Level Geography All options"",300,236,207,177,147,117,88
+2019,""A Level Geology"",270,202,165,140,115,90,65
+2019,""A Level History A (H505) H505 Options excluding Y107, Y314 or Y318"",200,164,145,123,102,81,60
+2019,""A Level History A (H505) H505 Options including Y107, excluding Y314 or Y318"",200,163,144,123,102,81,60
+2019,""A Level History A (H505) H505 Options including Y314, excluding Y107"",200,162,143,122,101,80,60
+2019,""A Level History A (H505) H505 Options including Y318, excluding Y107"",200,165,146,124,102,81,60
+2019,""A Level History A (H505) H505 Options including Y107 and Y314"",200,161,142,121,100,80,60
+2019,""A Level History A (H505) H505 Options including Y107 and Y318"",200,164,145,123,102,81,60
+2019,""A Level Latin"",300,227,194,165,137,109,81
+2019,""A Level Law"",300,242,213,175,137,99,61
+2019,""A Level Mathematics A"",300,216,161,130,100,70,40
+2019,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y543"",300,234,193,165,137,110,83
+2019,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y544"",300,233,196,167,139,111,83
+2019,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y545"",300,238,198,169,140,111,82
+2019,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y544"",300,222,184,156,128,100,72
+2019,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y545"",300,227,186,157,128,99,71
+2019,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y544+Y545"",300,226,189,159,129,100,71
+2019,""A Level Mathematics B (MEI)"",275,217,178,146,114,83,52
+2019,""A Level Further Mathematics B (H645) H645 Route A: Option Y420+Y421+Y432"",360,267,219,181,144,107,70
+2019,""A Level Further Mathematics B (H645) H645 Route A: Option Y420+Y421+Y433"",360,261,213,177,141,105,69
+2019,""A Level Further Mathematics B (H645) H645 Route A: Option Y420+Y421+Y434"",360,267,220,184,148,112,76
+2019,""A Level Further Mathematics B (H645) H645 Route A: Option Y420+Y421+Y435"",360,257,208,171,135,99,63
+2019,""A Level Further Mathematics B (H645) H645 Route A: Option Y420+Y421+Y436"",360,258,207,172,137,102,68
+2019,""A Level Further Mathematics B (H645) H645 Route B: Option Y420+Y422+Y431"",360,292,246,208,171,134,97
+2019,""A Level Further Mathematics B (H645) H645 Route B: Option Y420+Y422+Y433"",360,288,242,205,169,133,97
+2019,""A Level Further Mathematics B (H645) H645 Route B: Option Y420+Y422+Y434"",360,294,249,212,176,140,104
+2019,""A Level Further Mathematics B (H645) H645 Route B: Option Y420+Y422+Y435"",360,284,237,200,163,127,91
+2019,""A Level Further Mathematics B (H645) H645 Route B: Option Y420+Y422+Y436"",360,285,236,201,166,131,96
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y432+Y433"",360,280,234,197,160,123,86
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y432+Y434"",360,286,241,204,167,130,93
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y432+Y435"",360,276,229,191,154,117,80
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y432+Y436"",360,277,228,192,156,120,85
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y433+Y434"",360,280,235,199,163,127,92
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y433+Y435"",360,270,223,187,151,115,79
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y433+Y436"",360,271,222,187,152,118,84
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y434+Y435"",360,276,230,194,158,122,86
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y434+Y436"",360,277,229,194,159,125,91
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y431+Y435+Y436"",360,267,217,182,147,112,78
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y432+Y433+Y434"",360,282,237,201,165,129,93
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y432+Y433+Y435"",360,272,225,188,152,116,80
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y432+Y433+Y436"",360,273,224,189,154,119,85
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y432+Y434+Y435"",360,278,232,195,159,123,87
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y432+Y434+Y436"",360,279,231,196,161,126,92
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y432+Y435+Y436"",360,269,219,184,149,114,79
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y433+Y434+Y435"",360,272,226,191,156,121,86
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y433+Y434+Y436"",360,273,225,191,157,124,91
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y433+Y435+Y436"",360,263,213,179,145,111,78
+2019,""A Level Further Mathematics B (H645) H645 Route C: Option Y420+Y434+Y435+Y436"",360,269,220,186,152,118,85
+2019,""A Level Media Studies All options"",200,163,141,119,97,75,54
+2019,""A Level Music All options"",300,255,220,193,166,139,112
+2019,""A Level Physical Education *To create the overall boundaries, component 04 is weighted to give marks out of 90"",300,226,206,179,153,127,101
+2019,""A Level Physics A"",270,230,204,174,144,114,84
+2019,""A Level Physics B (Advancing Physics)"",270,209,176,148,120,92,65
+2019,""A Level Psychology"",300,223,200,170,141,112,83
+2019,""A Level Religious Studies Option D: 01+02+06"",360,310,262,218,174,130,87
+2019,""A Level Religious Studies All other options"",360,312,264,219,175,131,87
+2019,""A Level Sociology"",300,251,228,194,160,127,94
+2021,""A Level Ancient History H407 A Option components 11, 21"",196,149,129,105,82,59,36
+2021,""A Level Ancient History H407 C Option components 11, 23"",196,149,129,105,82,59,36
+2021,""A Level Ancient History H407 D Option components 12, 21"",196,149,129,105,82,59,36
+2021,""A Level Ancient History H407 F Option components 12, 23"",196,149,129,105,82,59,36
+2021,""A Level Biology A"",270,169,137,115,94,73,52
+2021,""A Level Biology B (Advancing Biology)"",270,158,125,103,81,60,39
+2021,""A Level Business"",240,175,151,129,107,85,63
+2021,""A Level Chemistry A"",270,211,172,139,107,75,43
+2021,""A Level Chemistry B (Salters)"",270,186,148,121,94,68,42
+2021,""A Level Classical Civilisation H408 A Option components 11, 21, 31"",250,188,163,134,105,76,47
+2021,""A Level Classical Civilisation H408 B Option components 11, 21, 32"",250,187,160,132,104,76,49
+2021,""A Level Classical Civilisation H408 D Option components 11, 21, 34"",250,186,161,132,103,75,47
+2021,""A Level Classical Civilisation H408 G Option components 11, 22, 33"",250,189,165,137,109,82,55
+2021,""A Level Classical Civilisation H408 H Option components 11, 22, 34"",250,187,163,136,109,82,55
+2021,""A Level Classical Civilisation H408 J Option components 11, 23, 31"",250,186,160,133,106,79,52
+2021,""A Level Classical Civilisation H408 N Option components 11, 24, 31"",250,188,163,134,105,76,47
+2021,""A Level Computer Science H446 All options"",280,191,165,135,105,75,45
+2021,""A Level Design and Technology H404 All options"",150,99,83,70,57,44,32
+2021,""A Level Design and Technology H406 All options"",150,102,90,78,67,56,45
+2021,""A Level Economics"",240,177,148,123,98,73,49
+2021,""A Level English Language"",160,130,113,94,75,57,39
+2021,""A Level English Language & Literature (EMC)"",160,118,106,90,74,59,44
+2021,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",160,144,131,112,93.3,74,56
+2021,""A Level Geography H481 All options"",240,166,142,120,98,76,55
+2021,""A Level Geology"",270,181,141,117,93,69,45
+2021,""A Level History A (H505) H505 All options"",160,116,100,84,68,52,36
+2021,""A Level Latin"",300,194,144,119,94,69,44
+2021,""A Level Law"",300,221,183,149,115,82,49
+2021,""A Level Mathematics A"",300,197,151,123,95,67,39
+2021,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y543"",300,200,160,135,110,85,61
+2021,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y544"",300,199,163,137,111,86,61
+2021,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y545"",300,204,165,138,112,86,60
+2021,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y544"",300,191,154,130,106,82,59
+2021,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y545"",300,196,156,131,106,82,58
+2021,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y544+Y545"",300,195,159,133,108,83,58
+2021,""A Level Mathematics B (MEI)"",275,192,154,126,98,70,42
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y421+Y432"",324,244,193,156,119,82,45
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y421+Y434"",324,244,194,158,122,86,50
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y421+Y435"",324,234,182,146,111,76,41
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y422+Y431"",324,269,217,179,141,104,67
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y422+Y433"",324,262,213,176,139,103,67
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y422+Y435"",324,261,211,174,137,100,64
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y431+Y432+Y433"",324,255,202,165,128,91,55
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y431+Y432+Y434"",324,264,212,174,136,98,61
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y431+Y433+Y434"",324,255,203,167,131,95,60
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y431+Y433+Y435"",324,245,191,156,121,86,51
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y431+Y434+Y435"",324,254,201,165,129,93,57
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y433+Y434+Y435"",324,247,197,162,127,92,57
+2021,""A Level Further Mathematics B (H645) H645 Option Y420+Y433+Y435+Y436"",324,238,184,150,116,83,50
+2021,""A Level Media Studies H409 All options"",140,100,84,67,50,34,18
+2021,""A Level Physical Education"",210,139,120,103,86,69,53
+2021,""A Level Physics A"",270,214,182,151,120,89,59
+2021,""A Level Physics B (Advancing Physics)"",270,187,151,127,103,79,56
+2021,""A Level Psychology"",300,202,179,149,119,89,59
+2021,""A Level Religious Studies H573 All options"",360,275,229,186,144,102,60
+2021,""A Level Sociology"",300,236,211,175,139,104,69
+2022,""A Level Ancient History All options"",196,157,134,108,82,56,30
+2022,""A Level Biology A"",270,184,156,130,104,78,52
+2022,""A Level Biology B (Advancing Biology)"",270,153,134,115,96,78,60
+2022,""A Level Business"",240,189,168,139,110,81,53
+2022,""A Level Chemistry A"",270,213,168,132,97,62,27
+2022,""A Level Chemistry B (Salters)"",270,205,165,134,103,73,43
+2022,""A Level Classical Civilisation Option A: 11+21+31"",250,192,168,141,114,87,60
+2022,""A Level Classical Civilisation Option B: 11+21+32"",250,196,171,143,115,88,61
+2022,""A Level Classical Civilisation Option C: 11+21+33"",250,194,169,141,114,87,60
+2022,""A Level Classical Civilisation Option D: 11+21+34"",250,191,167,140,113,86,60
+2022,""A Level Classical Civilisation Option E: 11+22+31"",250,193,169,141,114,87,60
+2022,""A Level Classical Civilisation Option F: 11+22+32"",250,197,172,144,116,88,61
+2022,""A Level Classical Civilisation Option G: 11+22+33"",250,195,170,142,114,87,60
+2022,""A Level Classical Civilisation Option H: 11+22+34"",250,192,168,141,114,87,60
+2022,""A Level Classical Civilisation Option J: 11+23+31"",250,191,167,140,113,86,59
+2022,""A Level Classical Civilisation Option K: 11+23+32"",250,195,170,142,114,87,60
+2022,""A Level Classical Civilisation Option L: 11+23+33"",250,193,168,140,113,86,59
+2022,""A Level Classical Civilisation Option M: 11+23+34"",250,190,166,139,112,85,59
+2022,""A Level Classical Civilisation Option N: 11+24+31"",250,191,167,140,113,86,59
+2022,""A Level Classical Civilisation Option O: 11+24+32"",250,195,170,142,114,87,60
+2022,""A Level Classical Civilisation Option P: 11+24+33"",250,193,168,140,113,86,59
+2022,""A Level Classical Civilisation Option Q: 11+24+34"",250,190,166,139,112,85,59
+2022,""A Level Classical Greek"",300,235,190,161,132,104,76
+2022,""A Level Computer Science All options"",350,264,229,189,150,111,72
+2022,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,223,197,167,137,107,77
+2022,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,240,217,187,158,129,100
+2022,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,240,217,187,158,129,100
+2022,""A Level Drama and Theatre All options"",300,246,224,197,170,143,117
+2022,""A Level Economics"",240,185,157,129,101,73,46
+2022,""A Level English Language"",200,163,146,124,102,80,58
+2022,""A Level English Language and Literature (EMC)"",200,155,142,122,103,84,65
+2022,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",200,182,170,144,118,93,68
+2022,""A Level Film Studies All options"",300,232,212,170,129,88,47
+2022,""A Level Geography All options"",300,223,194,164,134,104,74
+2022,""A Level Geology"",270,174,149,124,99,74,49
+2022,""A Level History A (H505) H505 All options excluding Y109 & Y213"",200,150,132,110,88,66,44
+2022,""A Level History A (H505) H505 All options including Y109 but excluding Y213"",200,149,131,109,87,65,44
+2022,""A Level History A (H505) H505 All options excluding Y109 but including Y213"",200,148,130,108,86,64,43
+2022,""A Level History A (H505) H505 All options including both Y109 & Y213"",200,147,129,107,85,64,43
+2022,""A Level Latin"",300,210,170,145,120,95,70
+2022,""A Level Law All options"",240,178,147,116,86,56,26
+2022,""A Level Mathematics A"",300,193,149,119,90,61,32
+2022,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y543"",300,199,160,130,101,72,43
+2022,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y544"",300,203,166,136,106,76,46
+2022,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y545"",300,193,156,127,99,71,43
+2022,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y544"",300,189,150,123,96,69,42
+2022,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y545"",300,179,140,114,89,64,39
+2022,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y544+Y545"",300,183,146,120,94,68,42
+2022,""A Level Mathematics B (MEI)"",275,212,172,138,104,71,38
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y432"",360,257,204,162,121,80,39
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y433"",360,251,199,158,118,78,38
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y434"",360,251,197,156,115,74,33
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y435"",360,253,198,156,114,73,32
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y436"",360,252,198,157,116,76,36
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y431"",360,252,198,156,114,72,30
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y433"",360,259,207,164,121,79,37
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y434"",360,259,205,161,118,75,32
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y435"",360,261,206,162,118,74,31
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y433"",360,249,198,160,123,86,49
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y434"",360,249,196,158,120,82,44
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y435"",360,251,197,158,119,81,43
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y434"",360,243,191,154,117,80,43
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y435"",360,245,192,154,116,79,42
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y435+Y436"",360,246,191,153,115,77,40
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y434"",360,256,205,166,127,89,51
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y435"",360,258,206,167,128,89,50
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y434+Y435"",360,258,204,164,124,84,45
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y435+Y436"",360,259,205,165,126,87,48
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y434+Y435"",360,252,199,160,121,82,44
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y434+Y436"",360,251,199,161,123,85,48
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y435+Y436"",360,253,200,161,123,85,47
+2022,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y434+Y435+Y436"",360,253,198,159,120,81,42
+2022,""A Level Media Studies All options"",200,142,122,99,76,53,30
+2022,""A Level Music"",300,232,205,178,151,124,97
+2022,""A Level Physical Education *To create the overall boundaries, components 05 & 06 are weighted to give marks out of 45"",300,202,179,155,131,107,84
+2022,""A Level Physics A"",270,211,181,147,113,80,47
+2022,""A Level Physics B (Advancing Physics)"",270,177,143,116,89,63,37
+2022,""A Level Psychology"",300,213,189,157,126,95,64
+2022,""A Level Religious Studies All options"",360,283,243,195,148,101,54
+2022,""A Level Sociology"",300,254,228,189,150,112,74
+2023,""A Level Ancient History All options"",196,165,143,116,89,62,36
+2023,""A Level Art and Design All options"",200,190,179,154,129,105,81
+2023,""A Level Biology A"",270,183,155,130,106,82,58
+2023,""A Level Biology B (Advancing Biology)"",270,169,148,127,107,87,67
+2023,""A Level Business"",240,188,169,143,117,91,65
+2023,""A Level Chemistry A"",270,234,198,158,118,79,40
+2023,""A Level Chemistry B (Salters)"",270,211,177,146,115,84,53
+2023,""A Level Classical Civilisation Option A: 11+21+31"",250,210,183,153,123,93,64
+2023,""A Level Classical Civilisation Option B: 11+21+32"",250,211,184,154,125,96,67
+2023,""A Level Classical Civilisation Option C: 11+21+33"",250,209,182,152,122,92,63
+2023,""A Level Classical Civilisation Option D: 11+21+34"",250,207,180,151,122,93,64
+2023,""A Level Classical Civilisation Option E: 11+22+31"",250,209,182,152,122,92,62
+2023,""A Level Classical Civilisation Option F: 11+22+32"",250,210,183,153,123,94,65
+2023,""A Level Classical Civilisation Option G: 11+22+33"",250,208,181,151,121,91,61
+2023,""A Level Classical Civilisation Option H: 11+22+34"",250,206,179,149,120,91,62
+2023,""A Level Classical Civilisation Option J: 11+23+31"",250,209,182,151,121,91,61
+2023,""A Level Classical Civilisation Option K: 11+23+32"",250,210,183,153,123,93,64
+2023,""A Level Classical Civilisation Option L: 11+23+33"",250,208,181,150,120,90,60
+2023,""A Level Classical Civilisation Option M: 11+23+34"",250,206,179,149,119,90,61
+2023,""A Level Classical Civilisation Option N: 11+24+31"",250,207,180,150,120,91,62
+2023,""A Level Classical Civilisation Option O: 11+24+32"",250,208,181,152,123,94,65
+2023,""A Level Classical Civilisation Option P: 11+24+33"",250,206,179,149,119,90,61
+2023,""A Level Classical Civilisation Option Q: 11+24+34"",250,204,177,148,119,90,62
+2023,""A Level Classical Greek"",300,240,198,169,140,112,84
+2023,""A Level Computer Science All options"",350,286,251,209,167,126,85
+2023,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,248,221,187,153,119,86
+2023,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,252,233,201,170,139,108
+2023,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,252,233,201,170,139,108
+2023,""A Level Drama and Theatre All options"",300,267,250,221,192,163,134
+2023,""A Level Economics"",240,193,164,135,106,78,50
+2023,""A Level English Language"",200,175,155,131,107,84,61
+2023,""A Level English Language and Literature (EMC)"",200,164,150,130,110,91,72
+2023,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",200,186,175,152,129,106,84
+2023,""A Level Film Studies All options"",300,262,226,190,154,118,83
+2023,""A Level Geography All options"",300,235,207,176,145,115,85
+2023,""A Level Geology"",270,183,159,135,111,87,63
+2023,""A Level History A (H505) H505"",200,155,137,116,95,74,54
+2023,""A Level History A (H505) H505 Y100 + (Y113) + (Y201 to Y224 except Y223) + (Y301 to Y321 except Y318)"",200,156,138,117,96,75,54
+2023,""A Level History A (H505) H505 Y100 + (Y101 to Y112) + (Y223) + (Y301 to Y321 except Y318)"",200,156,138,117,96,75,54
+2023,""A Level History A (H505) H505 Y100 + (Y113) + (Y223) + (Y301 to Y321 except Y318)"",200,157,139,117,96,75,54
+2023,""A Level History A (H505) H505 Y100 + (Y101 to Y112) + (Y201 to Y224 except Y223) + (Y318)"",200,154,136,115,94,73,53
+2023,""A Level History A (H505) H505 Y100 + (Y113) + (Y201 to Y224 except Y223) + (Y318)"",200,155,137,116,95,74,53
+2023,""A Level History A (H505) H505 Y100 + (Y101 to Y112) + (Y223) + (Y318)"",200,155,137,116,95,74,53
+2023,""A Level History A (H505) H505 Y100 + (Y113) + (Y223) + (Y318)"",200,156,138,116,95,74,53
+2023,""A Level Latin"",300,232,188,160,132,104,76
+2023,""A Level Law H418 Option 01+02+03"",240,183,158,127,96,65,35
+2023,""A Level Law H418 Option 01+02+04"",240,183,159,128,97,66,35
+2023,""A Level Mathematics A"",300,209,161,129,97,66,35
+2023,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y543"",300,199,158,130,103,76,49
+2023,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y544"",300,208,168,139,110,82,54
+2023,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y545"",300,196,156,130,104,78,52
+2023,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y544"",300,207,166,137,108,80,52
+2023,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y545"",300,195,154,128,102,76,50
+2023,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y544+Y545"",300,204,164,136,109,82,55
+2023,""A Level Mathematics B (MEI)"",275,224,186,151,117,83,49
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y432"",360,271,228,188,148,108,69
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y433"",360,267,224,185,146,107,68
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y434"",360,268,224,184,144,104,65
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y435"",360,269,225,184,143,102,62
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y431"",360,287,241,199,157,115,73
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y433"",360,287,244,203,162,122,82
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y434"",360,288,244,202,161,120,79
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y435"",360,289,245,202,160,118,76
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y433"",360,282,239,199,159,120,81
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y434"",360,283,239,198,158,118,78
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y435"",360,284,240,198,157,116,75
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y436"",360,278,234,194,154,115,76
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y434"",360,279,235,195,155,116,77
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y435"",360,280,236,195,154,114,74
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y434+Y435"",360,281,236,194,153,112,71
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y434"",360,283,242,203,164,125,87
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y435"",360,284,243,203,163,123,84
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y434+Y435"",360,285,243,202,161,121,81
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y434+Y435"",360,281,239,199,159,119,80
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y435+Y436"",360,276,234,195,156,117,78
+2023,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y434+Y435+Y436"",360,277,234,194,154,114,75
+2023,""A Level Media Studies All options"",200,154,132,108,84,60,36
+2023,""A Level Music All options"",300,249,221,193,166,139,112
+2023,""A Level Physical Education *To create the overall boundaries, components 05 & 06 are weighted to give marks out of 45"",300,226,204,176,148,121,94
+2023,""A Level Physics A"",270,211,182,151,120,90,60
+2023,""A Level Physics B (Advancing Physics)"",270,207,170,141,112,84,56
+2023,""A Level Psychology"",300,222,201,170,139,109,79
+2023,""A Level Religious Studies All other options"",360,301,255,208,161,114,67
+2023,""A Level Sociology"",300,259,235,196,157,119,81
+2024,""A Level Ancient History H407 Option A : 11 + 21"",196,168,141,114,87,61,35
+2024,""A Level Ancient History H407 Option B : 11 + 22"",196,170,145,117,90,63,36
+2024,""A Level Ancient History H407 Option C : 11 + 23"",196,169,143,116,89,62,36
+2024,""A Level Ancient History H407 Option D : 12 + 21"",196,165,139,113,87,61,36
+2024,""A Level Ancient History H407 Option E : 12 + 22"",196,169,143,116,89,63,37
+2024,""A Level Ancient History H407 Option F : 12 + 23"",196,167,141,115,89,63,37
+2024,""A Level Ancient History H407 Option G : 13 + 21"",196,165,139,113,87,61,36
+2024,""A Level Ancient History H407 Option H : 13 + 22"",196,169,143,116,89,63,37
+2024,""A Level Ancient History H407 Option J : 13 + 23"",196,167,141,115,89,63,37
+2024,""A Level Art and Design All options"",200,192,181,156,131,106,82
+2024,""A Level Biology A"",270,187,160,136,112,89,66
+2024,""A Level Biology B (Advancing Biology)"",270,171,151,131,111,91,72
+2024,""A Level Business"",240,190,170,142,114,87,60
+2024,""A Level Chemistry A"",270,243,212,173,134,96,58
+2024,""A Level Chemistry B (Salters)"",270,221,186,156,127,98,69
+2024,""A Level Classical Civilisation Option A: 11+21+31"",250,212,185,153,121,90,59
+2024,""A Level Classical Civilisation Option B: 11+21+32"",250,212,186,154,122,91,60
+2024,""A Level Classical Civilisation Option C: 11+21+33"",250,212,185,153,121,89,58
+2024,""A Level Classical Civilisation Option D: 11+21+34"",250,210,183,152,121,90,59
+2024,""A Level Classical Civilisation Option E: 11+22+31"",250,212,184,153,122,91,60
+2024,""A Level Classical Civilisation Option F: 11+22+32"",250,212,185,154,123,92,61
+2024,""A Level Classical Civilisation Option G: 11+22+33"",250,212,184,152,121,90,59
+2024,""A Level Classical Civilisation Option H: 11+22+34"",250,210,182,151,120,90,60
+2024,""A Level Classical Civilisation Option J: 11+23+31"",250,211,185,154,123,92,62
+2024,""A Level Classical Civilisation Option K: 11+23+32"",250,211,186,155,124,93,63
+2024,""A Level Classical Civilisation Option L: 11+23+33"",250,211,185,154,123,92,61
+2024,""A Level Classical Civilisation Option M: 11+23+34"",250,209,183,152,122,92,62
+2024,""A Level Classical Civilisation Option N: 11+24+31"",250,210,183,152,121,90,59
+2024,""A Level Classical Civilisation Option O: 11+24+32"",250,210,184,153,122,91,60
+2024,""A Level Classical Civilisation Option P: 11+24+33"",250,210,183,151,120,89,58
+2024,""A Level Classical Civilisation Option Q: 11+24+34"",250,208,181,150,119,89,59
+2024,""A Level Classical Greek"",300,251,206,177,148,120,92
+2024,""A Level Computer Science All options"",350,292,256,215,174,133,93
+2024,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,243,219,186,153,120,88
+2024,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,254,233,204,175,147,119
+2024,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,254,233,204,175,147,119
+2024,""A Level Drama and Theatre All options"",300,266,252,217,182,147,112
+2024,""A Level Economics"",240,193,166,139,112,85,58
+2024,""A Level English Language"",200,169,150,126,102,79,56
+2024,""A Level English Language and Literature (EMC)"",200,168,155,135,115,95,76
+2024,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",200,187,176,153,131,109,87
+2024,""A Level Film Studies All options"",300,253,230,196,162,128,94
+2024,""A Level Geography All options"",300,237,208,178,149,120,91
+2024,""A Level Geology"",270,184,159,134,109,85,61
+2024,""A Level History A (H505) H505"",200,153,135,114,93,73,53
+2024,""A Level History A (H505) H505"",200,152,134,113,92,72,52
+2024,""A Level History A (H505) H505"",200,153,135,114,93,72,52
+2024,""A Level History A (H505) H505 Y100 + (Y101 to Y112, except Y102) + (Y213, Y215) + (Y318)"",200,152,134,113,92,71,51
+2024,""A Level History A (H505) H505 Y100 + (Y101 to Y112, except Y102) + (Y206) + (Y301 to Y321, except Y318)"",200,149,131,111,91,71,51
+2024,""A Level History A (H505) H505 Y100 + (Y101 to Y112, except Y102) + (Y206) + (Y318)"",200,148,130,110,90,70,50
+2024,""A Level History A (H505) H505 Y100 + (Y101 to Y112, except Y102) + (Y223) + (Y301 to Y321, except Y318)"",200,154,136,115,94,73,53
+2024,""A Level History A (H505) H505 Y100 + (Y101 to Y112, except Y102) + (Y223) + (Y318)"",200,153,135,114,93,72,52
+2024,""A Level History A (H505) H505"",200,153,135,114,93,72,52
+2024,""A Level History A (H505) H505 Y100 + (Y102) + (Y201 to Y224, except Y206 , Y213, Y215, Y223) + (Y318)"",200,152,134,113,92,71,51
+2024,""A Level History A (H505) H505 Y100 + (Y102) + (Y213, Y215) + (Y301 to Y321, except Y318)"",200,153,135,114,93,72,51
+2024,""A Level History A (H505) H505 Y100 + (Y102) + (Y223) + (Y301 to Y321, except Y318)"",200,154,136,115,94,73,52
+2024,""A Level History A (H505) H505 Y100 + (Y102) + (Y223) + (Y318)"",200,153,135,114,93,72,51
+2024,""A Level History A (H505) H505"",200,154,136,115,94,73,53
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y201 to Y224, except Y206 , Y213, Y215, Y223) + (Y318)"",200,153,135,114,93,72,52
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y213, Y215) + (Y301 to Y321, except Y318)"",200,154,136,115,94,73,52
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y213, Y215) + (Y318)"",200,153,135,114,93,72,51
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y206) + (Y301 to Y321, except Y318)"",200,150,132,111,91,71,51
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y223) + (Y301 to Y321, except Y318)"",200,155,137,116,95,74,53
+2024,""A Level History A (H505) H505"",200,153,135,114,93,72,52
+2024,""A Level History A (H505) H505"",200,154,136,115,94,73,53
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y201 to Y224, except Y206 , Y213, Y215, Y223) + (Y318)"",200,153,135,114,93,72,52
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y213,Y215) + (Y301 to Y321, except Y318)"",200,154,136,115,94,73,52
+2024,""A Level History A (H505) H505 Y100 + (Y113) + (Y213,Y215) + (Y318)"",200,153,135,114,93,72,51
+2024,""A Level Latin"",300,239,199,173,147,121,96
+2024,""A Level Law H418 Option 01+02+03"",240,184,158,128,98,69,40
+2024,""A Level Law H418 Option 01+02+04"",240,187,161,130,99,69,39
+2024,""A Level Mathematics A"",300,216,168,137,106,75,44
+2024,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y543"",300,230,193,163,134,105,76
+2024,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y544"",300,226,190,161,133,105,77
+2024,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y545"",300,214,178,150,123,96,69
+2024,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y544"",300,228,192,163,134,105,77
+2024,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y545"",300,216,180,152,124,96,69
+2024,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y544+Y545"",300,212,177,150,123,96,70
+2024,""A Level Mathematics B (MEI)"",275,231,190,156,122,89,56
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y432"",360,285,250,207,164,122,80
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y433"",360,284,247,205,163,121,80
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y434"",360,289,249,207,165,123,81
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y435"",360,285,247,203,159,116,73
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y436"",360,285,245,203,161,120,79
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y431"",360,305,266,222,178,134,90
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y433"",360,309,272,228,184,140,97
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y434"",360,314,274,230,186,142,98
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y435"",360,310,272,226,180,135,90
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y433"",360,301,260,217,175,133,91
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y434"",360,306,262,219,176,134,92
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y435"",360,302,260,216,172,128,84
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y436"",360,302,258,216,174,132,90
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y434"",360,305,259,217,175,133,92
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y435"",360,301,257,213,170,127,84
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y436"",360,301,255,213,172,131,90
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y434+Y435"",360,306,259,215,171,128,85
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y435+Y436"",360,302,255,212,169,126,83
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y434"",360,310,268,225,183,141,99
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y435"",360,306,266,222,178,134,91
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y436"",360,306,264,222,180,138,97
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y434+Y435"",360,311,268,224,180,136,92
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y435+Y436"",360,307,264,220,176,133,90
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y434+Y435"",360,310,265,221,178,135,92
+2024,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y435+Y436"",360,306,261,218,175,132,90
+2024,""A Level Media Studies All options"",200,152,132,109,87,65,43
+2024,""A Level Music All options"",300,247,220,193,166,139,112
+2024,""A Level Physical Education *To create the overall boundaries, components 05 & 06 & 07 are weighted to give marks out of 45"",300,214,192,167,142,117,92.5
+2024,""A Level Physics A"",270,207,175,146,117,88,59
+2024,""A Level Physics B (Advancing Physics)"",270,194,158,134,110,87,64
+2024,""A Level Psychology"",300,229,209,177,145,114,83
+2024,""A Level Religious Studies All other options"",360,295,251,207,163,119,76
+2024,""A Level Sociology"",300,256,231,192,153,114,75
+2025,""A Level Ancient History Option A: 11+21"",196,164,141,114,88,62,36
+2025,""A Level Ancient History Option B: 11+22"",196,166,143,116,89,62,36
+2025,""A Level Ancient History Option C: 11+23"",196,165,143,116,89,62,36
+2025,""A Level Ancient History Option D: 12+21"",196,161,140,114,88,62,37
+2025,""A Level Ancient History Option E: 12+22"",196,163,142,115,89,63,37
+2025,""A Level Ancient History Option F: 12+23"",196,162,142,115,89,63,37
+2025,""A Level Ancient History Option G: 13+21"",196,163,141,115,89,63,37
+2025,""A Level Ancient History Option H: 13+22"",196,165,143,116,89,63,37
+2025,""A Level Ancient History Option J: 13+23"",196,164,143,116,89,63,37
+2025,""A Level Art and Design All options"",200,192,181,156,131,106,82
+2025,""A Level Biology A"",270,187,161,137,113,90,67
+2025,""A Level Biology B (Advancing Biology)"",270,186,167,148,129,110,91
+2025,""A Level Business"",240,187,168,144,120,96,73
+2025,""A Level Chemistry A"",270,243,213,175,137,99,61
+2025,""A Level Chemistry B (Salters)"",270,216,176,146,117,88,59
+2025,""A Level Classical Civilisation Option A: 11+21+31"",250,211,185,155,125,95,66
+2025,""A Level Classical Civilisation Option B: 11+21+32"",250,211,184,154,125,96,67
+2025,""A Level Classical Civilisation Option C: 11+21+33"",250,212,185,155,125,96,67
+2025,""A Level Classical Civilisation Option D: 11+21+34"",250,212,185,155,125,95,66
+2025,""A Level Classical Civilisation Option E: 11+22+31"",250,211,185,155,125,95,66
+2025,""A Level Classical Civilisation Option F: 11+22+32"",250,211,184,154,125,96,67
+2025,""A Level Classical Civilisation Option G: 11+22+33"",250,212,185,155,125,96,67
+2025,""A Level Classical Civilisation Option H: 11+22+34"",250,212,185,155,125,95,66
+2025,""A Level Classical Civilisation Option J: 11+23+31"",250,211,185,155,125,95,66
+2025,""A Level Classical Civilisation Option K: 11+23+32"",250,211,184,154,125,96,67
+2025,""A Level Classical Civilisation Option L: 11+23+33"",250,212,185,155,125,96,67
+2025,""A Level Classical Civilisation Option M: 11+23+34"",250,212,185,155,125,95,66
+2025,""A Level Classical Civilisation Option N: 11+24+31"",250,208,182,153,124,95,66
+2025,""A Level Classical Civilisation Option O: 11+24+32"",250,208,181,152,123,95,67
+2025,""A Level Classical Civilisation Option P: 11+24+33"",250,209,182,153,124,95,67
+2025,""A Level Classical Civilisation Option Q: 11+24+34"",250,209,182,153,124,95,66
+2025,""A Level Classical Greek"",300,243,201,172,143,114,86
+2025,""A Level Computer Science All options"",350,291,256,218,180,142,105
+2025,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,252,232,199,166,133,100
+2025,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,259,236,203,171,139,107
+2025,""A Level Design and Technology *To create the overall boundaries, components 03 and 04 are weighted to give marks out of 150"",300,259,236,203,171,139,107
+2025,""A Level Drama and Theatre All options"",300,268,254,222,190,158,126
+2025,""A Level Economics"",240,197,171,142,114,86,58
+2025,""A Level English Language"",200,172,152,128,104,81,58
+2025,""A Level English Language and Literature (EMC)"",200,167,154,135,116,97,79
+2025,""A Level English Literature *To create the overall boundaries, components 01 and 02 are weighted to give marks out of 80"",200,187,177,155,133,111,89
+2025,""A Level Film Studies All options"",300,255,229,196,163,130,98
+2025,""A Level Geography All options"",300,239,210,181,152,123,95
+2025,""A Level Geology"",270,198,172,146,120,94,69
+2025,""A Level History A (H505) H505"",200,153,137,116,95,75,55
+2025,""A Level History A (H505) H505 Y100 + (Y101 to Y113) + (Y201 to Y224, except Y213, Y219) + (Y306, Y319)"",200,155,139,118,97,76,55
+2025,""A Level History A (H505) H505 Y100 + (Y101 to Y113) + Y213 + (Y301 to Y321, except Y306, Y319)"",200,152,136,115,94,74,54
+2025,""A Level History A (H505) H505 Y100 + (Y101 to Y113) + Y213 + (Y306, Y319)"",200,154,138,117,96,75,54
+2025,""A Level History A (H505) H505 Y100 + (Y101 to Y113) + Y219 + (Y301 to Y321, except Y306, Y319)"",200,152,136,115,95,75,55
+2025,""A Level History A (H505) H505 Y100 + (Y101 to Y113) + Y219 + (Y306, Y319)"",200,154,138,117,96,75,55
+2025,""A Level Latin"",300,244,205,177,149,122,95
+2025,""A Level Law H418 All options"",240,175,147,118,89,60,32
+2025,""A Level Mathematics A"",300,242,196,163,130,97,64
+2025,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y543"",300,231,198,167,136,105,74
+2025,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y544"",300,227,195,164,133,102,71
+2025,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y542+Y545"",300,228,196,164,132,101,70
+2025,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y544"",300,225,193,162,132,102,72
+2025,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y543+Y545"",300,226,194,163,132,101,71
+2025,""A Level Further Mathematics A (H245) H245 Option Y540+Y541+Y544+Y545"",300,222,191,160,129,98,68
+2025,""A Level Mathematics B (MEI)"",275,226,190,159,128,97,66
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y432"",360,291,257,215,173,131,89
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y433"",360,285,250,209,169,129,89
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y434"",360,288,252,210,168,126,85
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y435"",360,288,252,209,167,125,83
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route A: Option Y420+Y421+Y436"",360,286,250,209,168,127,87
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y431"",360,298,261,218,176,134,92
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y433"",360,297,262,220,178,136,95
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y434"",360,300,264,220,177,134,91
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y435"",360,300,264,220,176,132,89
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route B: Option Y420+Y422+Y436"",360,298,262,219,177,135,93
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y433"",360,294,255,214,174,134,94
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y434"",360,297,257,215,173,131,90
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y435"",360,297,257,214,172,130,88
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y432+Y436"",360,295,255,214,173,132,92
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y434"",360,291,250,210,170,130,90
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y435"",360,291,250,209,168,128,88
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y433+Y436"",360,289,248,209,170,131,92
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y434+Y435"",360,294,252,210,168,126,84
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y431+Y435+Y436"",360,292,250,209,168,127,86
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y434"",360,296,258,216,175,134,93
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y435"",360,296,258,216,174,132,91
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y433+Y436"",360,294,256,215,175,135,95
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y434+Y435"",360,299,260,216,173,130,87
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y432+Y435+Y436"",360,297,258,215,173,131,89
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y434+Y435"",360,293,253,211,169,128,87
+2025,""A Level Further Mathematics B (MEI) (H645) H645 Route C: Option Y420+Y433+Y435+Y436"",360,291,251,210,169,129,89
+2025,""A Level Media Studies All options"",200,158,138,115,92,69,46
+2025,""A Level Music All options"",300,249,222,195,168,141,114
+2025,""A Level Physical Education *To create the overall boundaries, components 05, 06 & 07 are weighted to give marks out of 45"",300,218,195,169,143,118,92.5
+2025,""A Level Physics A"",270,206,179,151,123,96,69
+2025,""A Level Physics B (Advancing Physics)"",270,203,174,145,116,87,59
+2025,""A Level Psychology"",300,222,200,168,136,104,73
+2025,""A Level Religious Studies All other options"",360,298,259,214,169,124,79
+2025,""A Level Sociology"",300,260,236,197,158,120,82
